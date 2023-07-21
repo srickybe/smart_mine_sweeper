@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Project Name="SmartSweepersV2" Version="11000" InternalType="Console">
+  <Description/>
+  <Dependencies/>
+  <VirtualDirectory Name="src">
+    <File Name="Sensors.cpp"/>
+    <File Name="Sensors.h"/>
+    <File Name="LineSegment.cpp"/>
+    <File Name="LineSegment.h"/>
+    <File Name="SharedArrayOfSharedMines.h"/>
+    <File Name="SharedArrayOfSharedSweepers.h"/>
+    <File Name="Application.cpp"/>
+    <File Name="Application.h"/>
+    <File Name="TestCamera.cpp"/>
+    <File Name="TestCamera.h"/>
+    <File Name="Camera.cpp"/>
+    <File Name="Camera.h"/>
+    <File Name="RandomGeneratorOfSweepersAndMines.cpp"/>
+    <File Name="RandomGeneratorOfSweepersAndMines.h"/>
+    <File Name="IsSharedPtrPhysicObject3D.cpp"/>
+    <File Name="IsSharedPtrPhysicObject3D.h"/>
+    <File Name="TestWorldMesh.cpp"/>
+    <File Name="TestWorldMesh.h"/>
+    <File Name="DefaultSteeringFunction.cpp"/>
+    <File Name="DefaultSteeringFunction.h"/>
+    <File Name="SteeringFunction.h"/>
+    <File Name="DefaultBrainEvolver.cpp"/>
+    <File Name="DefaultBrainEvolver.h"/>
+    <File Name="BrainEvolver.h"/>
+    <File Name="NotClosestObjectException.cpp"/>
+    <File Name="NotClosestObjectException.h"/>
+    <File Name="solver_settings_example.txt"/>
+    <File Name="params_example.ini"/>
+    <File Name="solver_settings.txt"/>
+    <File Name="params.ini"/>
+    <File Name="Indexes.cpp"/>
+    <File Name="GraphicObject.cpp"/>
+    <File Name="GraphicObject.h"/>
+    <File Name="Graphics.cpp"/>
+    <File Name="Graphics.h"/>
+    <File Name="Solver.cpp"/>
+    <File Name="Solver.h"/>
+    <File Name="ComputeComponentsIntervalsAlongAxis.cpp"/>
+    <File Name="ComputeComponentsIntervalsAlongAxis.h"/>
+    <File Name="ComputeComponentsIntervalsAlongAxes.cpp"/>
+    <File Name="ComputeComponentsIntervalsAlongAxes.h"/>
+    <File Name="Tank.h"/>
+    <File Name="Tank.cpp"/>
+    <File Name="IsMovableNonMovablePair.cpp"/>
+    <File Name="IsMovableNonMovablePair.h"/>
+    <File Name="IsSharedPtrSmartMineSweeper.cpp"/>
+    <File Name="IsSharedPtrSmartMineSweeper.h"/>
+    <File Name="IsSharedPtrMine.cpp"/>
+    <File Name="IsSharedPtrMine.h"/>
+    <File Name="AreBothSharedPtrMovablePhysicObject3D.h"/>
+    <File Name="AreBothSharedPtrMovablePhysicObject3D.cpp"/>
+    <File Name="World.h"/>
+    <File Name="World.cpp"/>
+    <File Name="PredicateOfSharedPtrPhysicObject3D.h"/>
+    <File Name="Simulation.h"/>
+    <File Name="Simulation.cpp"/>
+    <File Name="Partition_Triangles.cpp"/>
+    <File Name="SphereTree.cpp"/>
+    <File Name="SphereTree.h"/>
+    <File Name="Octree.cpp"/>
+    <File Name="Octree.h"/>
+    <File Name="VTN.cpp"/>
+    <File Name="VTN.h"/>
+    <File Name="MTLLoader.cpp"/>
+    <File Name="MaterialManager.h"/>
+    <File Name="MaterialManager.cpp"/>
+    <File Name="MTLLoader.h"/>
+    <File Name="Face.h"/>
+    <File Name="Face.cpp"/>
+    <File Name="OBJ_Loader.cpp"/>
+    <File Name="OBJLoader.h"/>
+    <File Name="ComputeTrianglesAreas.cpp"/>
+    <File Name="ComputeTrianglesAreas.h"/>
+    <File Name="ComputeTrianglesCenters.cpp"/>
+    <File Name="ComputeTrianglesCenters.h"/>
+    <File Name="TestIcosahedron.h"/>
+    <File Name="TestIcosahedron.cpp"/>
+    <File Name="PartitionTriangles.h"/>
+    <File Name="ComputeVertexList.cpp"/>
+    <File Name="ComputeVertexList.h"/>
+    <File Name="OrientedBox3DTree.cpp"/>
+    <File Name="OrientedBox3DTree.h"/>
+    <File Name="Utility.cpp"/>
+    <File Name="Utility.h"/>
+    <File Name="Mean.h"/>
+    <File Name="Mean.cpp"/>
+    <File Name="TridiagonalForm.h"/>
+    <File Name="TridiagonalForm.cpp"/>
+    <File Name="Support.h"/>
+    <File Name="Support.cpp"/>
+    <File Name="order_eigen_values.h"/>
+    <File Name="order_eigen_values.cpp"/>
+    <File Name="GaussTrianglesFit.h"/>
+    <File Name="GaussTrianglesFit.cpp"/>
+    <File Name="GaussPointsFit.h"/>
+    <File Name="GaussPointsFit.cpp"/>
+    <File Name="Eigen.h"/>
+    <File Name="Eigen.cpp"/>
+    <File Name="Covariance.h"/>
+    <File Name="Covariance.cpp"/>
+    <File Name="BoundingVolumeBuilder3D.h"/>
+    <File Name="BoundingVolumeBuilder3D.cpp"/>
+    <File Name="MeshBuilder.h"/>
+    <File Name="MeshBuilder.cpp"/>
+    <File Name="Traits.h"/>
+    <File Name="OrientedEllipsoid.h"/>
+    <File Name="OrientedEllipsoid.cpp"/>
+    <File Name="ModelIterator.h"/>
+    <File Name="ModelIterator.cpp"/>
+    <File Name="ModelConstantIterator.h"/>
+    <File Name="ModelConstantIterator.cpp"/>
+    <File Name="Model.h"/>
+    <File Name="Model.cpp"/>
+    <File Name="Renderer.h"/>
+    <File Name="Renderer.cpp"/>
+    <File Name="Material.h"/>
+    <File Name="Material.cpp"/>
+    <File Name="Polygon.h"/>
+    <File Name="Polygon.cpp"/>
+    <File Name="Quad.h"/>
+    <File Name="Quad.cpp"/>
+    <File Name="Triangle.h"/>
+    <File Name="Triangle.cpp"/>
+    <File Name="Line.h"/>
+    <File Name="Line.cpp"/>
+    <File Name="Mesh.h"/>
+    <File Name="Mesh.cpp"/>
+    <File Name="Intersectable.cpp"/>
+    <File Name="Vector2D.h"/>
+    <File Name="Vector2D.cpp"/>
+    <File Name="Matrix2D.h"/>
+    <File Name="Matrix2D.cpp"/>
+    <File Name="MobileTestClass.h"/>
+    <File Name="RGBColor.h"/>
+    <File Name="RGBColor.cpp"/>
+    <File Name="Mobile.h"/>
+    <File Name="Mobile.cpp"/>
+    <File Name="SmartMineSweeper.h"/>
+    <File Name="SmartMineSweeper.cpp"/>
+    <File Name="Mine.h"/>
+    <File Name="Mine.cpp"/>
+    <File Name="Brain.h"/>
+    <File Name="Brain.cpp"/>
+    <File Name="Tournament.h"/>
+    <File Name="Tournament.cpp"/>
+    <File Name="TestChromo.h"/>
+    <File Name="TestChromo.cpp"/>
+    <File Name="Vector.h"/>
+    <File Name="Vector.cpp"/>
+    <File Name="Matrix.h"/>
+    <File Name="Matrix.cpp"/>
+    <File Name="Function.h"/>
+    <File Name="Statistics.h"/>
+    <File Name="Statistics.cpp"/>
+    <File Name="SmartSweepersV2.mk"/>
+    <File Name="Sigmoid.h"/>
+    <File Name="Sigmoid.cpp"/>
+    <File Name="Settings.h"/>
+    <File Name="Settings.cpp"/>
+    <File Name="Selector.h"/>
+    <File Name="Selector.cpp"/>
+    <File Name="RouletteWheel.h"/>
+    <File Name="RouletteWheel.cpp"/>
+    <File Name="Reserve.h"/>
+    <File Name="Reserve.cpp"/>
+    <File Name="Range.h"/>
+    <File Name="Range.cpp"/>
+    <File Name="Population.h"/>
+    <File Name="Population.cpp"/>
+    <File Name="Parameters.h"/>
+    <File Name="Parameters.cpp"/>
+    <File Name="NeuralNetwork.h"/>
+    <File Name="NeuralNetwork.cpp"/>
+    <File Name="MyChromosome.h"/>
+    <File Name="MyChromosome.cpp"/>
+    <File Name="Layer.h"/>
+    <File Name="Layer.cpp"/>
+    <File Name="HyperbolicTangent.h"/>
+    <File Name="HyperbolicTangent.cpp"/>
+    <File Name="Gudermann.h"/>
+    <File Name="Gudermann.cpp"/>
+    <File Name="GeneticAlgorithm.h"/>
+    <File Name="GeneticAlgorithm.cpp"/>
+    <File Name="Function.cpp"/>
+    <File Name="DefaultActivationFunction.h"/>
+    <File Name="DefaultActivationFunction.cpp"/>
+    <File Name="CompareTestChromo.h"/>
+    <File Name="CompareTestChromo.cpp"/>
+    <File Name="CompareMyChromosome.h"/>
+    <File Name="CompareMyChromosome.cpp"/>
+    <File Name="CompareChromosome.h"/>
+    <File Name="CompareChromosome.cpp"/>
+    <File Name="Chromosome.h"/>
+    <File Name="Chromosome.cpp"/>
+    <File Name="DynamicPlane.cpp"/>
+    <File Name="DynamicPlane.h"/>
+    <File Name="DynamicSphere.cpp"/>
+    <File Name="DynamicSphere.h"/>
+    <File Name="DynamicIntersection.cpp"/>
+    <File Name="DynamicIntersection.h"/>
+    <File Name="Plane.h"/>
+    <File Name="Plane.cpp"/>
+    <File Name="OrientedBox3D.h"/>
+    <File Name="OrientedBox3D.cpp"/>
+    <File Name="Quaternion.h"/>
+    <File Name="Quaternion.cpp"/>
+    <File Name="AxisAngle.h"/>
+    <File Name="AxisAngle.cpp"/>
+    <File Name="UnsupportedOperationException.h"/>
+    <File Name="UnsupportedOperationException.cpp"/>
+    <File Name="Intersection.cpp"/>
+    <File Name="Intersection.h"/>
+    <File Name="DynamicIntersectable.h"/>
+    <File Name="Intersectable.h"/>
+    <File Name="Partitions.h"/>
+    <File Name="Indexes.h"/>
+    <File Name="Math.h"/>
+    <File Name="IllegalArgumentException.h"/>
+    <File Name="Rand.cpp"/>
+    <File Name="Rand.h"/>
+    <File Name="Real.h"/>
+    <File Name="PairOfSharedPtrPhysicObject3D.h"/>
+    <File Name="PredicateOfPairOfSharedPtrPhysicObject3D.h"/>
+    <File Name="WeakPtrCell3D.h"/>
+    <File Name="SharedPtrPhysicObject3D.h"/>
+    <File Name="SharedPtrCell3D.h"/>
+    <File Name="AxisAlignedBox3D.h"/>
+    <File Name="AxisAlignedBox3D.cpp"/>
+    <File Name="Grid3D.h"/>
+    <File Name="Grid3D.cpp"/>
+    <File Name="Cell3D.cpp"/>
+    <File Name="Cell3D.h"/>
+    <File Name="PhysicObject3D.cpp"/>
+    <File Name="PhysicObject3D.h"/>
+    <File Name="Vector3D.h"/>
+    <File Name="Vector3D.cpp"/>
+    <File Name="Sphere.h"/>
+    <File Name="Sphere.cpp"/>
+    <File Name="SmartSweepersV2.project"/>
+    <File Name="Result.h"/>
+    <File Name="Result.cpp"/>
+    <File Name="Matrix3D.h"/>
+    <File Name="Matrix3D.cpp"/>
+    <File Name="makefile"/>
+    <File Name="main"/>
+    <File Name="gmon.out"/>
+    <File Name="Box.h"/>
+    <File Name="Box.cpp"/>
+    <File Name="main.cpp"/>
+  </VirtualDirectory>
+  <Settings Type="Executable">
+    <GlobalSettings>
+      <Compiler Options="" C_Options="" Assembler="">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="">
+        <LibraryPath Value="."/>
+      </Linker>
+      <ResourceCompiler Options=""/>
+    </GlobalSettings>
+    <Configuration Name="Debug" CompilerType="GCC" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-g;-O0;-Wall" C_Options="-g;-O0;-Wall" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="" Required="yes"/>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="$(ProjectName)" IntermediateDirectory="" Command="$(WorkspacePath)/build-$(WorkspaceConfiguration)/bin/$(OutputFile)" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="$(WorkspacePath)/build-$(WorkspaceConfiguration)/lib" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="CodeLite Make Generator"/>
+      <Environment EnvVarSetName="&lt;Use Defaults&gt;" DbgSetName="&lt;Use Defaults&gt;">
+        <![CDATA[]]>
+      </Environment>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="" IsExtended="no">
+        <DebuggerSearchPaths/>
+        <PostConnectCommands/>
+        <StartupCommands/>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <RebuildCommand/>
+        <CleanCommand/>
+        <BuildCommand/>
+        <PreprocessFileCommand/>
+        <SingleFileCommand/>
+        <MakefileGenerationCommand/>
+        <ThirdPartyToolName>None</ThirdPartyToolName>
+        <WorkingDirectory/>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild/>
+        <CustomPreBuild/>
+      </AdditionalRules>
+      <Completion EnableCpp11="no" EnableCpp14="no">
+        <ClangCmpFlagsC/>
+        <ClangCmpFlags/>
+        <ClangPP/>
+        <SearchPaths/>
+      </Completion>
+    </Configuration>
+    <Configuration Name="Release" CompilerType="GCC" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-O2;-Wall" C_Options="-O2;-Wall" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
+        <IncludePath Value="."/>
+        <Preprocessor Value="NDEBUG"/>
+      </Compiler>
+      <Linker Options="-lGL -lGLU -lSDL -pthread" Required="yes"/>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="$(ProjectName)" IntermediateDirectory="" Command="$(WorkspacePath)/build-$(WorkspaceConfiguration)/bin/$(OutputFile)" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="$(WorkspacePath)/build-$(WorkspaceConfiguration)/lib" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="CodeLite Make Generator"/>
+      <Environment EnvVarSetName="&lt;Use Defaults&gt;" DbgSetName="&lt;Use Defaults&gt;">
+        <![CDATA[]]>
+      </Environment>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="" IsExtended="no">
+        <DebuggerSearchPaths/>
+        <PostConnectCommands/>
+        <StartupCommands/>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <RebuildCommand/>
+        <CleanCommand/>
+        <BuildCommand/>
+        <PreprocessFileCommand/>
+        <SingleFileCommand/>
+        <MakefileGenerationCommand/>
+        <ThirdPartyToolName>None</ThirdPartyToolName>
+        <WorkingDirectory/>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild/>
+        <CustomPreBuild/>
+      </AdditionalRules>
+      <Completion EnableCpp11="no" EnableCpp14="no">
+        <ClangCmpFlagsC/>
+        <ClangCmpFlags/>
+        <ClangPP/>
+        <SearchPaths/>
+      </Completion>
+    </Configuration>
+  </Settings>
+</CodeLite_Project>

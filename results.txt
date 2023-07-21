@@ -1,0 +1,6808 @@
+area[0] = 0.478727
+area[0] = 0.1393
+area[0] = 0.0360323
+cell is empty ? true
+object added
+cell is empty ? false
+TestSimulation::TestSimulation(...)
+number of failedAttempts = 0
+number of failedAttempts = 0
+mines->size() = 600
+roulette_Wheel
+selectors.size() = 1
+sweeper_0's position =      1490.64     899.707           4
+void Simulation::runOffline()
+dt = 0.0333333
+generation duration = 30
+#####generation 0
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+PhysicObject3D not set in an empty space!
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.81667, 
+fitnessStandardDeviation=4.38213, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=845, 
+bestSweeperID=82
+}
+#####generation 1
+stats =
+Statistics{
+bestFitness=44, 
+averageFitness=2.95333, 
+fitnessStandardDeviation=5.64191, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=886, 
+bestSweeperID=82
+}
+ssssswwwcurrentGeneration = 2
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=3.14667, 
+fitnessStandardDeviation=3.88653, 
+pourcentageOfMinelessSweepers=17.3333, 
+totalNumberOfCollectedMines=944, 
+bestSweeperID=83
+}
+end of generation 3
+currentGeneration = 3
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=3.04333, 
+fitnessStandardDeviation=4.44689, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=913, 
+bestSweeperID=83
+}
+end of generation 4
+currentGeneration = 4
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=3.55333, 
+fitnessStandardDeviation=5.38954, 
+pourcentageOfMinelessSweepers=25, 
+totalNumberOfCollectedMines=1066, 
+bestSweeperID=82
+}
+end of generation 5
+currentGeneration = 5
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=3.19, 
+fitnessStandardDeviation=4.11913, 
+pourcentageOfMinelessSweepers=21.6667, 
+totalNumberOfCollectedMines=957, 
+bestSweeperID=13
+}
+end of generation 6
+currentGeneration = 6
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.93, 
+fitnessStandardDeviation=4.11806, 
+pourcentageOfMinelessSweepers=24.6667, 
+totalNumberOfCollectedMines=879, 
+bestSweeperID=225
+}
+end of generation 7
+currentGeneration = 7
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=3.18333, 
+fitnessStandardDeviation=4.52582, 
+pourcentageOfMinelessSweepers=25.3333, 
+totalNumberOfCollectedMines=955, 
+bestSweeperID=215
+}
+end of generation 8
+currentGeneration = 8
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.78667, 
+fitnessStandardDeviation=4.67274, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=836, 
+bestSweeperID=12
+}
+end of generation 9
+currentGeneration = 9
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.77667, 
+fitnessStandardDeviation=4.44599, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=833, 
+bestSweeperID=12
+}
+end of generation 10
+currentGeneration = 10
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=3.01333, 
+fitnessStandardDeviation=4.43319, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=904, 
+bestSweeperID=225
+}
+end of generation 11
+currentGeneration = 11
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.77333, 
+fitnessStandardDeviation=4.50503, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=832, 
+bestSweeperID=82
+}
+end of generation 12
+currentGeneration = 12
+stats =
+Statistics{
+bestFitness=46, 
+averageFitness=2.92, 
+fitnessStandardDeviation=5.24852, 
+pourcentageOfMinelessSweepers=27.3333, 
+totalNumberOfCollectedMines=876, 
+bestSweeperID=83
+}
+end of generation 13
+currentGeneration = 13
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.72, 
+fitnessStandardDeviation=4.34299, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=816, 
+bestSweeperID=87
+}
+end of generation 14
+currentGeneration = 14
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.40333, 
+fitnessStandardDeviation=3.38733, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=721, 
+bestSweeperID=144
+}
+end of generation 15
+currentGeneration = 15
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.62333, 
+fitnessStandardDeviation=4.12247, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=787, 
+bestSweeperID=178
+}
+end of generation 16
+currentGeneration = 16
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.70667, 
+fitnessStandardDeviation=4.90176, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=812, 
+bestSweeperID=83
+}
+end of generation 17
+currentGeneration = 17
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.64667, 
+fitnessStandardDeviation=4.45067, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=794, 
+bestSweeperID=82
+}
+end of generation 18
+currentGeneration = 18
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.70333, 
+fitnessStandardDeviation=4.28898, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=811, 
+bestSweeperID=82
+}
+end of generation 19
+currentGeneration = 19
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.47667, 
+fitnessStandardDeviation=4.23038, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=743, 
+bestSweeperID=82
+}
+end of generation 20
+currentGeneration = 20
+stats =
+Statistics{
+bestFitness=42, 
+averageFitness=3.13667, 
+fitnessStandardDeviation=5.57297, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=941, 
+bestSweeperID=82
+}
+end of generation 21
+currentGeneration = 21
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=3.16333, 
+fitnessStandardDeviation=4.7634, 
+pourcentageOfMinelessSweepers=27, 
+totalNumberOfCollectedMines=949, 
+bestSweeperID=83
+}
+end of generation 22
+currentGeneration = 22
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.80667, 
+fitnessStandardDeviation=4.48508, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=842, 
+bestSweeperID=166
+}
+end of generation 23
+currentGeneration = 23
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=3.22, 
+fitnessStandardDeviation=4.4846, 
+pourcentageOfMinelessSweepers=26.6667, 
+totalNumberOfCollectedMines=966, 
+bestSweeperID=83
+}
+end of generation 24
+currentGeneration = 24
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.94, 
+fitnessStandardDeviation=4.60323, 
+pourcentageOfMinelessSweepers=25.6667, 
+totalNumberOfCollectedMines=882, 
+bestSweeperID=59
+}
+end of generation 25
+currentGeneration = 25
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.84667, 
+fitnessStandardDeviation=4.51551, 
+pourcentageOfMinelessSweepers=27.3333, 
+totalNumberOfCollectedMines=854, 
+bestSweeperID=82
+}
+end of generation 26
+currentGeneration = 26
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.80333, 
+fitnessStandardDeviation=4.89537, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=841, 
+bestSweeperID=82
+}
+end of generation 27
+currentGeneration = 27
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.84667, 
+fitnessStandardDeviation=4.33703, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=854, 
+bestSweeperID=82
+}
+end of generation 28
+currentGeneration = 28
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.72667, 
+fitnessStandardDeviation=4.92192, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=818, 
+bestSweeperID=83
+}
+end of generation 29
+currentGeneration = 29
+stats =
+Statistics{
+bestFitness=43, 
+averageFitness=2.60667, 
+fitnessStandardDeviation=4.96104, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=782, 
+bestSweeperID=82
+}
+end of generation 30
+currentGeneration = 30
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.70333, 
+fitnessStandardDeviation=4.7225, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=811, 
+bestSweeperID=83
+}
+end of generation 31
+currentGeneration = 31
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.57333, 
+fitnessStandardDeviation=4.56632, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=772, 
+bestSweeperID=82
+}
+end of generation 32
+currentGeneration = 32
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.48, 
+fitnessStandardDeviation=5.01826, 
+pourcentageOfMinelessSweepers=40, 
+totalNumberOfCollectedMines=744, 
+bestSweeperID=215
+}
+end of generation 33
+currentGeneration = 33
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.41, 
+fitnessStandardDeviation=4.06389, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=723, 
+bestSweeperID=59
+}
+end of generation 34
+currentGeneration = 34
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.43667, 
+fitnessStandardDeviation=3.84612, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=731, 
+bestSweeperID=13
+}
+end of generation 35
+currentGeneration = 35
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.62, 
+fitnessStandardDeviation=4.0705, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=786, 
+bestSweeperID=13
+}
+end of generation 36
+currentGeneration = 36
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.58667, 
+fitnessStandardDeviation=4.33541, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=776, 
+bestSweeperID=59
+}
+end of generation 37
+currentGeneration = 37
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.76, 
+fitnessStandardDeviation=4.54852, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=828, 
+bestSweeperID=252
+}
+end of generation 38
+currentGeneration = 38
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.40333, 
+fitnessStandardDeviation=4.3252, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=721, 
+bestSweeperID=144
+}
+end of generation 39
+currentGeneration = 39
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.77667, 
+fitnessStandardDeviation=5.06624, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=833, 
+bestSweeperID=13
+}
+end of generation 40
+currentGeneration = 40
+stats =
+Statistics{
+bestFitness=42, 
+averageFitness=2.61333, 
+fitnessStandardDeviation=5.15789, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=784, 
+bestSweeperID=82
+}
+end of generation 41
+currentGeneration = 41
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.75, 
+fitnessStandardDeviation=4.7054, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=825, 
+bestSweeperID=83
+}
+end of generation 42
+currentGeneration = 42
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.77, 
+fitnessStandardDeviation=4.64153, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=831, 
+bestSweeperID=82
+}
+end of generation 43
+currentGeneration = 43
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.45333, 
+fitnessStandardDeviation=4.41148, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=736, 
+bestSweeperID=82
+}
+end of generation 44
+currentGeneration = 44
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.76333, 
+fitnessStandardDeviation=4.65625, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=829, 
+bestSweeperID=83
+}
+end of generation 45
+currentGeneration = 45
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.74667, 
+fitnessStandardDeviation=4.47465, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=824, 
+bestSweeperID=82
+}
+end of generation 46
+currentGeneration = 46
+stats =
+Statistics{
+bestFitness=40, 
+averageFitness=2.96, 
+fitnessStandardDeviation=5.02644, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=888, 
+bestSweeperID=83
+}
+end of generation 47
+currentGeneration = 47
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.47333, 
+fitnessStandardDeviation=4.21615, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=742, 
+bestSweeperID=82
+}
+end of generation 48
+currentGeneration = 48
+stats =
+Statistics{
+bestFitness=42, 
+averageFitness=2.86333, 
+fitnessStandardDeviation=4.89333, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=859, 
+bestSweeperID=82
+}
+end of generation 49
+currentGeneration = 49
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.37, 
+fitnessStandardDeviation=3.99497, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=711, 
+bestSweeperID=144
+}
+end of generation 50
+currentGeneration = 50
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.31333, 
+fitnessStandardDeviation=4.64634, 
+pourcentageOfMinelessSweepers=40, 
+totalNumberOfCollectedMines=694, 
+bestSweeperID=83
+}
+end of generation 51
+currentGeneration = 51
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.18, 
+fitnessStandardDeviation=3.79046, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=654, 
+bestSweeperID=82
+}
+end of generation 52
+currentGeneration = 52
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.45333, 
+fitnessStandardDeviation=4.06052, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=736, 
+bestSweeperID=144
+}
+end of generation 53
+currentGeneration = 53
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.79333, 
+fitnessStandardDeviation=4.36776, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=838, 
+bestSweeperID=225
+}
+end of generation 54
+currentGeneration = 54
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.62333, 
+fitnessStandardDeviation=4.32837, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=787, 
+bestSweeperID=225
+}
+end of generation 55
+currentGeneration = 55
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.73, 
+fitnessStandardDeviation=4.206, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=819, 
+bestSweeperID=82
+}
+end of generation 56
+currentGeneration = 56
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.75667, 
+fitnessStandardDeviation=4.43442, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=827, 
+bestSweeperID=166
+}
+end of generation 57
+currentGeneration = 57
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.63667, 
+fitnessStandardDeviation=4.05602, 
+pourcentageOfMinelessSweepers=28.6667, 
+totalNumberOfCollectedMines=791, 
+bestSweeperID=13
+}
+end of generation 58
+currentGeneration = 58
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.47, 
+fitnessStandardDeviation=4.28203, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=741, 
+bestSweeperID=83
+}
+end of generation 59
+currentGeneration = 59
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.67, 
+fitnessStandardDeviation=4.60447, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=801, 
+bestSweeperID=82
+}
+end of generation 60
+currentGeneration = 60
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.34667, 
+fitnessStandardDeviation=3.73093, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=704, 
+bestSweeperID=252
+}
+end of generation 61
+currentGeneration = 61
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.42667, 
+fitnessStandardDeviation=4.1942, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=728, 
+bestSweeperID=144
+}
+end of generation 62
+currentGeneration = 62
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.51667, 
+fitnessStandardDeviation=3.9085, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=755, 
+bestSweeperID=225
+}
+end of generation 63
+currentGeneration = 63
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.42, 
+fitnessStandardDeviation=3.71263, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=726, 
+bestSweeperID=13
+}
+end of generation 64
+currentGeneration = 64
+stats =
+Statistics{
+bestFitness=46, 
+averageFitness=2.53, 
+fitnessStandardDeviation=5.12339, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=759, 
+bestSweeperID=82
+}
+end of generation 65
+currentGeneration = 65
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.25333, 
+fitnessStandardDeviation=4.18519, 
+pourcentageOfMinelessSweepers=39, 
+totalNumberOfCollectedMines=676, 
+bestSweeperID=82
+}
+end of generation 66
+currentGeneration = 66
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.17667, 
+fitnessStandardDeviation=3.81298, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=653, 
+bestSweeperID=13
+}
+end of generation 67
+currentGeneration = 67
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.36, 
+fitnessStandardDeviation=4.18295, 
+pourcentageOfMinelessSweepers=43.3333, 
+totalNumberOfCollectedMines=708, 
+bestSweeperID=83
+}
+end of generation 68
+currentGeneration = 68
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.7, 
+fitnessStandardDeviation=4.20674, 
+pourcentageOfMinelessSweepers=30, 
+totalNumberOfCollectedMines=810, 
+bestSweeperID=13
+}
+end of generation 69
+currentGeneration = 69
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2, 
+fitnessStandardDeviation=3.05941, 
+pourcentageOfMinelessSweepers=38, 
+totalNumberOfCollectedMines=600, 
+bestSweeperID=225
+}
+end of generation 70
+currentGeneration = 70
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.27667, 
+fitnessStandardDeviation=3.82101, 
+pourcentageOfMinelessSweepers=38.6667, 
+totalNumberOfCollectedMines=683, 
+bestSweeperID=225
+}
+end of generation 71
+currentGeneration = 71
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.57, 
+fitnessStandardDeviation=4.52457, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=771, 
+bestSweeperID=225
+}
+end of generation 72
+currentGeneration = 72
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.38, 
+fitnessStandardDeviation=3.96177, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=714, 
+bestSweeperID=59
+}
+end of generation 73
+currentGeneration = 73
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.73667, 
+fitnessStandardDeviation=4.32443, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=821, 
+bestSweeperID=225
+}
+end of generation 74
+currentGeneration = 74
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.28, 
+fitnessStandardDeviation=4.04, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=684, 
+bestSweeperID=225
+}
+end of generation 75
+currentGeneration = 75
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.56667, 
+fitnessStandardDeviation=4.48169, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=770, 
+bestSweeperID=225
+}
+end of generation 76
+currentGeneration = 76
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.46333, 
+fitnessStandardDeviation=4.19229, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=739, 
+bestSweeperID=144
+}
+end of generation 77
+currentGeneration = 77
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.41667, 
+fitnessStandardDeviation=4.27976, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=725, 
+bestSweeperID=98
+}
+end of generation 78
+currentGeneration = 78
+stats =
+Statistics{
+bestFitness=42, 
+averageFitness=2.97667, 
+fitnessStandardDeviation=5.2532, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=893, 
+bestSweeperID=83
+}
+end of generation 79
+currentGeneration = 79
+stats =
+Statistics{
+bestFitness=50, 
+averageFitness=2.73333, 
+fitnessStandardDeviation=5.26646, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=820, 
+bestSweeperID=82
+}
+end of generation 80
+currentGeneration = 80
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.3, 
+fitnessStandardDeviation=3.96779, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=690, 
+bestSweeperID=2
+}
+end of generation 81
+currentGeneration = 81
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.20667, 
+fitnessStandardDeviation=3.81715, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=662, 
+bestSweeperID=82
+}
+end of generation 82
+currentGeneration = 82
+stats =
+Statistics{
+bestFitness=54, 
+averageFitness=2.75667, 
+fitnessStandardDeviation=5.69129, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=827, 
+bestSweeperID=83
+}
+end of generation 83
+currentGeneration = 83
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.41667, 
+fitnessStandardDeviation=4.468, 
+pourcentageOfMinelessSweepers=39.6667, 
+totalNumberOfCollectedMines=725, 
+bestSweeperID=83
+}
+end of generation 84
+currentGeneration = 84
+stats =
+Statistics{
+bestFitness=45, 
+averageFitness=2.7, 
+fitnessStandardDeviation=5.29119, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=810, 
+bestSweeperID=83
+}
+end of generation 85
+currentGeneration = 85
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.44667, 
+fitnessStandardDeviation=3.91499, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=734, 
+bestSweeperID=82
+}
+end of generation 86
+currentGeneration = 86
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.50333, 
+fitnessStandardDeviation=4.23674, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=751, 
+bestSweeperID=225
+}
+end of generation 87
+currentGeneration = 87
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.26, 
+fitnessStandardDeviation=4.226, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=678, 
+bestSweeperID=144
+}
+end of generation 88
+currentGeneration = 88
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.53667, 
+fitnessStandardDeviation=4.5558, 
+pourcentageOfMinelessSweepers=38, 
+totalNumberOfCollectedMines=761, 
+bestSweeperID=15
+}
+end of generation 89
+currentGeneration = 89
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.46667, 
+fitnessStandardDeviation=4.17878, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=740, 
+bestSweeperID=280
+}
+end of generation 90
+currentGeneration = 90
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.42667, 
+fitnessStandardDeviation=3.90102, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=728, 
+bestSweeperID=259
+}
+end of generation 91
+currentGeneration = 91
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.46, 
+fitnessStandardDeviation=4.17872, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=738, 
+bestSweeperID=144
+}
+end of generation 92
+currentGeneration = 92
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.88, 
+fitnessStandardDeviation=4.57008, 
+pourcentageOfMinelessSweepers=30, 
+totalNumberOfCollectedMines=864, 
+bestSweeperID=144
+}
+end of generation 93
+currentGeneration = 93
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.62, 
+fitnessStandardDeviation=3.91777, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=786, 
+bestSweeperID=144
+}
+end of generation 94
+currentGeneration = 94
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.4, 
+fitnessStandardDeviation=4.02989, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=720, 
+bestSweeperID=219
+}
+end of generation 95
+currentGeneration = 95
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.11, 
+fitnessStandardDeviation=3.43578, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=633, 
+bestSweeperID=225
+}
+end of generation 96
+currentGeneration = 96
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.7, 
+fitnessStandardDeviation=4.12189, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=810, 
+bestSweeperID=225
+}
+end of generation 97
+currentGeneration = 97
+stats =
+Statistics{
+bestFitness=46, 
+averageFitness=2.66333, 
+fitnessStandardDeviation=5.22015, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=799, 
+bestSweeperID=83
+}
+end of generation 98
+currentGeneration = 98
+stats =
+Statistics{
+bestFitness=55, 
+averageFitness=2.60333, 
+fitnessStandardDeviation=5.58026, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=781, 
+bestSweeperID=83
+}
+end of generation 99
+currentGeneration = 99
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.36333, 
+fitnessStandardDeviation=4.18386, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=709, 
+bestSweeperID=82
+}
+####MINES AND SWEEPERS REPOSITIONED!!!
+end of generation 100
+currentGeneration = 100
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=3.51333, 
+fitnessStandardDeviation=4.61987, 
+pourcentageOfMinelessSweepers=21, 
+totalNumberOfCollectedMines=1054, 
+bestSweeperID=82
+}
+end of generation 101
+currentGeneration = 101
+stats =
+Statistics{
+bestFitness=20, 
+averageFitness=2.85333, 
+fitnessStandardDeviation=4.10428, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=856, 
+bestSweeperID=13
+}
+end of generation 102
+currentGeneration = 102
+stats =
+Statistics{
+bestFitness=40, 
+averageFitness=2.97667, 
+fitnessStandardDeviation=4.70986, 
+pourcentageOfMinelessSweepers=23.3333, 
+totalNumberOfCollectedMines=893, 
+bestSweeperID=83
+}
+end of generation 103
+currentGeneration = 103
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.88, 
+fitnessStandardDeviation=4.63669, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=864, 
+bestSweeperID=82
+}
+end of generation 104
+currentGeneration = 104
+stats =
+Statistics{
+bestFitness=20, 
+averageFitness=2.43, 
+fitnessStandardDeviation=3.66676, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=729, 
+bestSweeperID=15
+}
+end of generation 105
+currentGeneration = 105
+stats =
+Statistics{
+bestFitness=41, 
+averageFitness=3.05333, 
+fitnessStandardDeviation=5.25457, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=916, 
+bestSweeperID=82
+}
+end of generation 106
+currentGeneration = 106
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.92333, 
+fitnessStandardDeviation=4.97099, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=877, 
+bestSweeperID=83
+}
+end of generation 107
+currentGeneration = 107
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=3.09, 
+fitnessStandardDeviation=4.8272, 
+pourcentageOfMinelessSweepers=27, 
+totalNumberOfCollectedMines=927, 
+bestSweeperID=252
+}
+end of generation 108
+currentGeneration = 108
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.99333, 
+fitnessStandardDeviation=4.75464, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=898, 
+bestSweeperID=82
+}
+end of generation 109
+currentGeneration = 109
+stats =
+Statistics{
+bestFitness=44, 
+averageFitness=2.77667, 
+fitnessStandardDeviation=5.32855, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=833, 
+bestSweeperID=83
+}
+end of generation 110
+currentGeneration = 110
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.18333, 
+fitnessStandardDeviation=3.54538, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=655, 
+bestSweeperID=82
+}
+end of generation 111
+currentGeneration = 111
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.41333, 
+fitnessStandardDeviation=4.33618, 
+pourcentageOfMinelessSweepers=38, 
+totalNumberOfCollectedMines=724, 
+bestSweeperID=219
+}
+end of generation 112
+currentGeneration = 112
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.41333, 
+fitnessStandardDeviation=3.59849, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=724, 
+bestSweeperID=87
+}
+end of generation 113
+currentGeneration = 113
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.78, 
+fitnessStandardDeviation=4.75657, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=834, 
+bestSweeperID=82
+}
+end of generation 114
+currentGeneration = 114
+stats =
+Statistics{
+bestFitness=42, 
+averageFitness=3.04333, 
+fitnessStandardDeviation=4.92762, 
+pourcentageOfMinelessSweepers=25, 
+totalNumberOfCollectedMines=913, 
+bestSweeperID=82
+}
+end of generation 115
+currentGeneration = 115
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.90667, 
+fitnessStandardDeviation=4.50976, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=872, 
+bestSweeperID=83
+}
+end of generation 116
+currentGeneration = 116
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.84333, 
+fitnessStandardDeviation=4.40819, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=853, 
+bestSweeperID=82
+}
+end of generation 117
+currentGeneration = 117
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.81, 
+fitnessStandardDeviation=5.01802, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=843, 
+bestSweeperID=82
+}
+end of generation 118
+currentGeneration = 118
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.94, 
+fitnessStandardDeviation=4.75146, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=882, 
+bestSweeperID=13
+}
+end of generation 119
+currentGeneration = 119
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.53, 
+fitnessStandardDeviation=4.42972, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=759, 
+bestSweeperID=82
+}
+end of generation 120
+currentGeneration = 120
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.96333, 
+fitnessStandardDeviation=5.00686, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=889, 
+bestSweeperID=82
+}
+end of generation 121
+currentGeneration = 121
+stats =
+Statistics{
+bestFitness=61, 
+averageFitness=2.66, 
+fitnessStandardDeviation=5.95072, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=798, 
+bestSweeperID=82
+}
+end of generation 122
+currentGeneration = 122
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.54667, 
+fitnessStandardDeviation=4.68627, 
+pourcentageOfMinelessSweepers=39, 
+totalNumberOfCollectedMines=764, 
+bestSweeperID=82
+}
+end of generation 123
+currentGeneration = 123
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.59, 
+fitnessStandardDeviation=4.25071, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=777, 
+bestSweeperID=82
+}
+end of generation 124
+currentGeneration = 124
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.63333, 
+fitnessStandardDeviation=4.25271, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=790, 
+bestSweeperID=2
+}
+end of generation 125
+currentGeneration = 125
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.84333, 
+fitnessStandardDeviation=4.97113, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=853, 
+bestSweeperID=82
+}
+end of generation 126
+currentGeneration = 126
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.71, 
+fitnessStandardDeviation=4.16804, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=813, 
+bestSweeperID=144
+}
+end of generation 127
+currentGeneration = 127
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.60333, 
+fitnessStandardDeviation=4.25511, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=781, 
+bestSweeperID=144
+}
+end of generation 128
+currentGeneration = 128
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.76, 
+fitnessStandardDeviation=4.4252, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=828, 
+bestSweeperID=44
+}
+end of generation 129
+currentGeneration = 129
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.85667, 
+fitnessStandardDeviation=4.77732, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=857, 
+bestSweeperID=83
+}
+end of generation 130
+currentGeneration = 130
+stats =
+Statistics{
+bestFitness=52, 
+averageFitness=2.93, 
+fitnessStandardDeviation=5.69372, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=879, 
+bestSweeperID=83
+}
+end of generation 131
+currentGeneration = 131
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.44667, 
+fitnessStandardDeviation=4.19768, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=734, 
+bestSweeperID=82
+}
+end of generation 132
+currentGeneration = 132
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.73, 
+fitnessStandardDeviation=4.69934, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=819, 
+bestSweeperID=215
+}
+end of generation 133
+currentGeneration = 133
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.63333, 
+fitnessStandardDeviation=4.00319, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=790, 
+bestSweeperID=13
+}
+end of generation 134
+currentGeneration = 134
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.16333, 
+fitnessStandardDeviation=3.48855, 
+pourcentageOfMinelessSweepers=41, 
+totalNumberOfCollectedMines=649, 
+bestSweeperID=135
+}
+end of generation 135
+currentGeneration = 135
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.32333, 
+fitnessStandardDeviation=3.71557, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=697, 
+bestSweeperID=252
+}
+end of generation 136
+currentGeneration = 136
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=1.91333, 
+fitnessStandardDeviation=3.41357, 
+pourcentageOfMinelessSweepers=44, 
+totalNumberOfCollectedMines=574, 
+bestSweeperID=144
+}
+end of generation 137
+currentGeneration = 137
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.22, 
+fitnessStandardDeviation=3.78395, 
+pourcentageOfMinelessSweepers=41.3333, 
+totalNumberOfCollectedMines=666, 
+bestSweeperID=144
+}
+end of generation 138
+currentGeneration = 138
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.22667, 
+fitnessStandardDeviation=3.72764, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=668, 
+bestSweeperID=197
+}
+end of generation 139
+currentGeneration = 139
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.73667, 
+fitnessStandardDeviation=4.85805, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=821, 
+bestSweeperID=83
+}
+end of generation 140
+currentGeneration = 140
+stats =
+Statistics{
+bestFitness=40, 
+averageFitness=2.64333, 
+fitnessStandardDeviation=5.08882, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=793, 
+bestSweeperID=82
+}
+end of generation 141
+currentGeneration = 141
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.50667, 
+fitnessStandardDeviation=4.21544, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=752, 
+bestSweeperID=225
+}
+end of generation 142
+currentGeneration = 142
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.44, 
+fitnessStandardDeviation=3.94627, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=732, 
+bestSweeperID=225
+}
+end of generation 143
+currentGeneration = 143
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.57, 
+fitnessStandardDeviation=4.3064, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=771, 
+bestSweeperID=197
+}
+end of generation 144
+currentGeneration = 144
+stats =
+Statistics{
+bestFitness=40, 
+averageFitness=2.49, 
+fitnessStandardDeviation=4.66582, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=747, 
+bestSweeperID=82
+}
+end of generation 145
+currentGeneration = 145
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.41333, 
+fitnessStandardDeviation=3.95843, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=724, 
+bestSweeperID=2
+}
+end of generation 146
+currentGeneration = 146
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.24333, 
+fitnessStandardDeviation=3.70011, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=673, 
+bestSweeperID=225
+}
+end of generation 147
+currentGeneration = 147
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.24333, 
+fitnessStandardDeviation=4.02957, 
+pourcentageOfMinelessSweepers=37.6667, 
+totalNumberOfCollectedMines=673, 
+bestSweeperID=13
+}
+end of generation 148
+currentGeneration = 148
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.25667, 
+fitnessStandardDeviation=3.99134, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=677, 
+bestSweeperID=2
+}
+end of generation 149
+currentGeneration = 149
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.51667, 
+fitnessStandardDeviation=4.17649, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=755, 
+bestSweeperID=83
+}
+end of generation 150
+currentGeneration = 150
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.39333, 
+fitnessStandardDeviation=3.82779, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=718, 
+bestSweeperID=83
+}
+end of generation 151
+currentGeneration = 151
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.61, 
+fitnessStandardDeviation=4.39976, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=783, 
+bestSweeperID=197
+}
+end of generation 152
+currentGeneration = 152
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.15667, 
+fitnessStandardDeviation=3.65497, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=647, 
+bestSweeperID=13
+}
+end of generation 153
+currentGeneration = 153
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.38, 
+fitnessStandardDeviation=3.86983, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=714, 
+bestSweeperID=13
+}
+end of generation 154
+currentGeneration = 154
+stats =
+Statistics{
+bestFitness=43, 
+averageFitness=2.60333, 
+fitnessStandardDeviation=4.605, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=781, 
+bestSweeperID=144
+}
+end of generation 155
+currentGeneration = 155
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.29, 
+fitnessStandardDeviation=3.4282, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=687, 
+bestSweeperID=225
+}
+end of generation 156
+currentGeneration = 156
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.43, 
+fitnessStandardDeviation=4.01145, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=729, 
+bestSweeperID=252
+}
+end of generation 157
+currentGeneration = 157
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.35667, 
+fitnessStandardDeviation=3.91017, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=707, 
+bestSweeperID=225
+}
+end of generation 158
+currentGeneration = 158
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.49333, 
+fitnessStandardDeviation=3.93657, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=748, 
+bestSweeperID=225
+}
+end of generation 159
+currentGeneration = 159
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.54, 
+fitnessStandardDeviation=3.9262, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=762, 
+bestSweeperID=252
+}
+end of generation 160
+currentGeneration = 160
+stats =
+Statistics{
+bestFitness=20, 
+averageFitness=2.58667, 
+fitnessStandardDeviation=3.76065, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=776, 
+bestSweeperID=13
+}
+end of generation 161
+currentGeneration = 161
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.65333, 
+fitnessStandardDeviation=4.76583, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=796, 
+bestSweeperID=225
+}
+end of generation 162
+currentGeneration = 162
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.77667, 
+fitnessStandardDeviation=4.66477, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=833, 
+bestSweeperID=82
+}
+end of generation 163
+currentGeneration = 163
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.84667, 
+fitnessStandardDeviation=4.6278, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=854, 
+bestSweeperID=82
+}
+end of generation 164
+currentGeneration = 164
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.52333, 
+fitnessStandardDeviation=4.72046, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=757, 
+bestSweeperID=82
+}
+end of generation 165
+currentGeneration = 165
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.49667, 
+fitnessStandardDeviation=3.94673, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=749, 
+bestSweeperID=144
+}
+end of generation 166
+currentGeneration = 166
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.48667, 
+fitnessStandardDeviation=4.01702, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=746, 
+bestSweeperID=197
+}
+end of generation 167
+currentGeneration = 167
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.17333, 
+fitnessStandardDeviation=3.39656, 
+pourcentageOfMinelessSweepers=39.3333, 
+totalNumberOfCollectedMines=652, 
+bestSweeperID=225
+}
+end of generation 168
+currentGeneration = 168
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.23667, 
+fitnessStandardDeviation=3.36957, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=671, 
+bestSweeperID=13
+}
+end of generation 169
+currentGeneration = 169
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.49, 
+fitnessStandardDeviation=3.80481, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=747, 
+bestSweeperID=225
+}
+end of generation 170
+currentGeneration = 170
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.48, 
+fitnessStandardDeviation=3.63908, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=744, 
+bestSweeperID=13
+}
+end of generation 171
+currentGeneration = 171
+stats =
+Statistics{
+bestFitness=20, 
+averageFitness=2.41667, 
+fitnessStandardDeviation=3.61059, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=725, 
+bestSweeperID=178
+}
+end of generation 172
+currentGeneration = 172
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.46667, 
+fitnessStandardDeviation=3.91436, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=740, 
+bestSweeperID=225
+}
+end of generation 173
+currentGeneration = 173
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.25333, 
+fitnessStandardDeviation=3.78979, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=676, 
+bestSweeperID=74
+}
+end of generation 174
+currentGeneration = 174
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.15, 
+fitnessStandardDeviation=3.64703, 
+pourcentageOfMinelessSweepers=39, 
+totalNumberOfCollectedMines=645, 
+bestSweeperID=13
+}
+end of generation 175
+currentGeneration = 175
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.35667, 
+fitnessStandardDeviation=4.15485, 
+pourcentageOfMinelessSweepers=39.6667, 
+totalNumberOfCollectedMines=707, 
+bestSweeperID=225
+}
+end of generation 176
+currentGeneration = 176
+stats =
+Statistics{
+bestFitness=41, 
+averageFitness=2.95, 
+fitnessStandardDeviation=5.06302, 
+pourcentageOfMinelessSweepers=30, 
+totalNumberOfCollectedMines=885, 
+bestSweeperID=144
+}
+end of generation 177
+currentGeneration = 177
+stats =
+Statistics{
+bestFitness=18, 
+averageFitness=2.48, 
+fitnessStandardDeviation=3.66555, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=744, 
+bestSweeperID=197
+}
+end of generation 178
+currentGeneration = 178
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.46, 
+fitnessStandardDeviation=4.39944, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=738, 
+bestSweeperID=225
+}
+end of generation 179
+currentGeneration = 179
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.43667, 
+fitnessStandardDeviation=4.29022, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=731, 
+bestSweeperID=144
+}
+end of generation 180
+currentGeneration = 180
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.59, 
+fitnessStandardDeviation=4.46041, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=777, 
+bestSweeperID=59
+}
+end of generation 181
+currentGeneration = 181
+stats =
+Statistics{
+bestFitness=40, 
+averageFitness=2.23, 
+fitnessStandardDeviation=4.04604, 
+pourcentageOfMinelessSweepers=39, 
+totalNumberOfCollectedMines=669, 
+bestSweeperID=13
+}
+end of generation 182
+currentGeneration = 182
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.40333, 
+fitnessStandardDeviation=4.35591, 
+pourcentageOfMinelessSweepers=38, 
+totalNumberOfCollectedMines=721, 
+bestSweeperID=13
+}
+end of generation 183
+currentGeneration = 183
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.52333, 
+fitnessStandardDeviation=4.03271, 
+pourcentageOfMinelessSweepers=40.6667, 
+totalNumberOfCollectedMines=757, 
+bestSweeperID=178
+}
+end of generation 184
+currentGeneration = 184
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.84333, 
+fitnessStandardDeviation=4.29714, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=853, 
+bestSweeperID=225
+}
+end of generation 185
+currentGeneration = 185
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.23, 
+fitnessStandardDeviation=3.75461, 
+pourcentageOfMinelessSweepers=41.3333, 
+totalNumberOfCollectedMines=669, 
+bestSweeperID=13
+}
+end of generation 186
+currentGeneration = 186
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.38667, 
+fitnessStandardDeviation=4.15658, 
+pourcentageOfMinelessSweepers=41.3333, 
+totalNumberOfCollectedMines=716, 
+bestSweeperID=252
+}
+end of generation 187
+currentGeneration = 187
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.63667, 
+fitnessStandardDeviation=3.91467, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=791, 
+bestSweeperID=205
+}
+end of generation 188
+currentGeneration = 188
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.49, 
+fitnessStandardDeviation=3.98036, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=747, 
+bestSweeperID=89
+}
+end of generation 189
+currentGeneration = 189
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.47667, 
+fitnessStandardDeviation=3.8405, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=743, 
+bestSweeperID=196
+}
+end of generation 190
+currentGeneration = 190
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.74333, 
+fitnessStandardDeviation=4.22975, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=823, 
+bestSweeperID=82
+}
+end of generation 191
+currentGeneration = 191
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.72333, 
+fitnessStandardDeviation=4.59131, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=817, 
+bestSweeperID=197
+}
+end of generation 192
+currentGeneration = 192
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.49667, 
+fitnessStandardDeviation=3.9425, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=749, 
+bestSweeperID=225
+}
+end of generation 193
+currentGeneration = 193
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.66, 
+fitnessStandardDeviation=4.06666, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=798, 
+bestSweeperID=12
+}
+end of generation 194
+currentGeneration = 194
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.71, 
+fitnessStandardDeviation=4.29176, 
+pourcentageOfMinelessSweepers=28.6667, 
+totalNumberOfCollectedMines=813, 
+bestSweeperID=13
+}
+end of generation 195
+currentGeneration = 195
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.52, 
+fitnessStandardDeviation=4.6184, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=756, 
+bestSweeperID=82
+}
+end of generation 196
+currentGeneration = 196
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.32333, 
+fitnessStandardDeviation=4.29559, 
+pourcentageOfMinelessSweepers=38, 
+totalNumberOfCollectedMines=697, 
+bestSweeperID=82
+}
+end of generation 197
+currentGeneration = 197
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.47667, 
+fitnessStandardDeviation=4.26569, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=743, 
+bestSweeperID=225
+}
+end of generation 198
+currentGeneration = 198
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.39, 
+fitnessStandardDeviation=3.88989, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=717, 
+bestSweeperID=215
+}
+end of generation 199
+currentGeneration = 199
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.50667, 
+fitnessStandardDeviation=4.58002, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=752, 
+bestSweeperID=82
+}
+####MINES AND SWEEPERS REPOSITIONED!!!
+end of generation 200
+currentGeneration = 200
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=3.73667, 
+fitnessStandardDeviation=4.78755, 
+pourcentageOfMinelessSweepers=17, 
+totalNumberOfCollectedMines=1121, 
+bestSweeperID=83
+}
+end of generation 201
+currentGeneration = 201
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.96333, 
+fitnessStandardDeviation=4.35683, 
+pourcentageOfMinelessSweepers=27.6667, 
+totalNumberOfCollectedMines=889, 
+bestSweeperID=15
+}
+end of generation 202
+currentGeneration = 202
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=3.10333, 
+fitnessStandardDeviation=5.05101, 
+pourcentageOfMinelessSweepers=27.6667, 
+totalNumberOfCollectedMines=931, 
+bestSweeperID=82
+}
+end of generation 203
+currentGeneration = 203
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=3.19333, 
+fitnessStandardDeviation=4.60608, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=958, 
+bestSweeperID=215
+}
+end of generation 204
+currentGeneration = 204
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.86333, 
+fitnessStandardDeviation=4.27762, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=859, 
+bestSweeperID=252
+}
+end of generation 205
+currentGeneration = 205
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=3.13, 
+fitnessStandardDeviation=5.39566, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=939, 
+bestSweeperID=82
+}
+end of generation 206
+currentGeneration = 206
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.95333, 
+fitnessStandardDeviation=4.54435, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=886, 
+bestSweeperID=225
+}
+end of generation 207
+currentGeneration = 207
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.72, 
+fitnessStandardDeviation=4.24676, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=816, 
+bestSweeperID=13
+}
+end of generation 208
+currentGeneration = 208
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.55667, 
+fitnessStandardDeviation=3.79211, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=767, 
+bestSweeperID=252
+}
+end of generation 209
+currentGeneration = 209
+stats =
+Statistics{
+bestFitness=20, 
+averageFitness=2.57667, 
+fitnessStandardDeviation=3.7653, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=773, 
+bestSweeperID=280
+}
+end of generation 210
+currentGeneration = 210
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.51667, 
+fitnessStandardDeviation=4.1645, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=755, 
+bestSweeperID=89
+}
+end of generation 211
+currentGeneration = 211
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.62, 
+fitnessStandardDeviation=4.38128, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=786, 
+bestSweeperID=82
+}
+end of generation 212
+currentGeneration = 212
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.49667, 
+fitnessStandardDeviation=3.64371, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=749, 
+bestSweeperID=82
+}
+end of generation 213
+currentGeneration = 213
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.58333, 
+fitnessStandardDeviation=4.1024, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=775, 
+bestSweeperID=146
+}
+end of generation 214
+currentGeneration = 214
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.78333, 
+fitnessStandardDeviation=4.22253, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=835, 
+bestSweeperID=13
+}
+end of generation 215
+currentGeneration = 215
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.83667, 
+fitnessStandardDeviation=4.28057, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=851, 
+bestSweeperID=13
+}
+end of generation 216
+currentGeneration = 216
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.42333, 
+fitnessStandardDeviation=3.55773, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=727, 
+bestSweeperID=144
+}
+end of generation 217
+currentGeneration = 217
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.9, 
+fitnessStandardDeviation=4.46206, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=870, 
+bestSweeperID=225
+}
+end of generation 218
+currentGeneration = 218
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.91333, 
+fitnessStandardDeviation=4.35421, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=874, 
+bestSweeperID=291
+}
+end of generation 219
+currentGeneration = 219
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.44, 
+fitnessStandardDeviation=3.90893, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=732, 
+bestSweeperID=13
+}
+end of generation 220
+currentGeneration = 220
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.63333, 
+fitnessStandardDeviation=3.96891, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=790, 
+bestSweeperID=225
+}
+end of generation 221
+currentGeneration = 221
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.60667, 
+fitnessStandardDeviation=3.67767, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=782, 
+bestSweeperID=225
+}
+end of generation 222
+currentGeneration = 222
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.84667, 
+fitnessStandardDeviation=4.46055, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=854, 
+bestSweeperID=144
+}
+end of generation 223
+currentGeneration = 223
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.59333, 
+fitnessStandardDeviation=3.87143, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=778, 
+bestSweeperID=225
+}
+end of generation 224
+currentGeneration = 224
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.52, 
+fitnessStandardDeviation=3.52462, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=756, 
+bestSweeperID=144
+}
+end of generation 225
+currentGeneration = 225
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.32667, 
+fitnessStandardDeviation=3.46313, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=698, 
+bestSweeperID=225
+}
+end of generation 226
+currentGeneration = 226
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.38667, 
+fitnessStandardDeviation=3.72162, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=716, 
+bestSweeperID=153
+}
+end of generation 227
+currentGeneration = 227
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.41, 
+fitnessStandardDeviation=3.70341, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=723, 
+bestSweeperID=144
+}
+end of generation 228
+currentGeneration = 228
+stats =
+Statistics{
+bestFitness=48, 
+averageFitness=2.75667, 
+fitnessStandardDeviation=5.54414, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=827, 
+bestSweeperID=82
+}
+end of generation 229
+currentGeneration = 229
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.76, 
+fitnessStandardDeviation=4.9101, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=828, 
+bestSweeperID=59
+}
+end of generation 230
+currentGeneration = 230
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.62333, 
+fitnessStandardDeviation=4.45886, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=787, 
+bestSweeperID=225
+}
+end of generation 231
+currentGeneration = 231
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.59333, 
+fitnessStandardDeviation=4.14584, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=778, 
+bestSweeperID=225
+}
+end of generation 232
+currentGeneration = 232
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.57, 
+fitnessStandardDeviation=3.93257, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=771, 
+bestSweeperID=83
+}
+end of generation 233
+currentGeneration = 233
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=3.14, 
+fitnessStandardDeviation=5.24154, 
+pourcentageOfMinelessSweepers=27.3333, 
+totalNumberOfCollectedMines=942, 
+bestSweeperID=82
+}
+end of generation 234
+currentGeneration = 234
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.49333, 
+fitnessStandardDeviation=4.04516, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=748, 
+bestSweeperID=82
+}
+end of generation 235
+currentGeneration = 235
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.8, 
+fitnessStandardDeviation=4.97259, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=840, 
+bestSweeperID=82
+}
+end of generation 236
+currentGeneration = 236
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.85333, 
+fitnessStandardDeviation=5.01516, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=856, 
+bestSweeperID=82
+}
+end of generation 237
+currentGeneration = 237
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.29333, 
+fitnessStandardDeviation=4.04565, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=688, 
+bestSweeperID=82
+}
+end of generation 238
+currentGeneration = 238
+stats =
+Statistics{
+bestFitness=40, 
+averageFitness=2.50333, 
+fitnessStandardDeviation=4.36921, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=751, 
+bestSweeperID=2
+}
+end of generation 239
+currentGeneration = 239
+stats =
+Statistics{
+bestFitness=20, 
+averageFitness=2.52, 
+fitnessStandardDeviation=3.77839, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=756, 
+bestSweeperID=144
+}
+end of generation 240
+currentGeneration = 240
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.61, 
+fitnessStandardDeviation=4.18385, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=783, 
+bestSweeperID=252
+}
+end of generation 241
+currentGeneration = 241
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.43, 
+fitnessStandardDeviation=3.66948, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=729, 
+bestSweeperID=144
+}
+end of generation 242
+currentGeneration = 242
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.18, 
+fitnessStandardDeviation=3.60013, 
+pourcentageOfMinelessSweepers=40.3333, 
+totalNumberOfCollectedMines=654, 
+bestSweeperID=13
+}
+end of generation 243
+currentGeneration = 243
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.14, 
+fitnessStandardDeviation=3.86097, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=642, 
+bestSweeperID=215
+}
+end of generation 244
+currentGeneration = 244
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.37333, 
+fitnessStandardDeviation=3.46708, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=712, 
+bestSweeperID=144
+}
+end of generation 245
+currentGeneration = 245
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.45, 
+fitnessStandardDeviation=3.90651, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=735, 
+bestSweeperID=146
+}
+end of generation 246
+currentGeneration = 246
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.18333, 
+fitnessStandardDeviation=3.32712, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=655, 
+bestSweeperID=55
+}
+end of generation 247
+currentGeneration = 247
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.50667, 
+fitnessStandardDeviation=4.17492, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=752, 
+bestSweeperID=225
+}
+end of generation 248
+currentGeneration = 248
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.66, 
+fitnessStandardDeviation=4.16626, 
+pourcentageOfMinelessSweepers=28.6667, 
+totalNumberOfCollectedMines=798, 
+bestSweeperID=135
+}
+end of generation 249
+currentGeneration = 249
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.68, 
+fitnessStandardDeviation=3.75645, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=804, 
+bestSweeperID=225
+}
+end of generation 250
+currentGeneration = 250
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.47333, 
+fitnessStandardDeviation=4.13875, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=742, 
+bestSweeperID=87
+}
+end of generation 251
+currentGeneration = 251
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.36667, 
+fitnessStandardDeviation=3.71289, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=710, 
+bestSweeperID=13
+}
+end of generation 252
+currentGeneration = 252
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.40667, 
+fitnessStandardDeviation=3.66169, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=722, 
+bestSweeperID=87
+}
+end of generation 253
+currentGeneration = 253
+stats =
+Statistics{
+bestFitness=20, 
+averageFitness=2.32333, 
+fitnessStandardDeviation=3.69127, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=697, 
+bestSweeperID=215
+}
+end of generation 254
+currentGeneration = 254
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.57333, 
+fitnessStandardDeviation=4.81781, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=772, 
+bestSweeperID=82
+}
+end of generation 255
+currentGeneration = 255
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.68333, 
+fitnessStandardDeviation=4.62778, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=805, 
+bestSweeperID=83
+}
+end of generation 256
+currentGeneration = 256
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.72333, 
+fitnessStandardDeviation=4.45572, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=817, 
+bestSweeperID=83
+}
+end of generation 257
+currentGeneration = 257
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.34333, 
+fitnessStandardDeviation=4.33345, 
+pourcentageOfMinelessSweepers=39.3333, 
+totalNumberOfCollectedMines=703, 
+bestSweeperID=83
+}
+end of generation 258
+currentGeneration = 258
+stats =
+Statistics{
+bestFitness=41, 
+averageFitness=2.53333, 
+fitnessStandardDeviation=4.82586, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=760, 
+bestSweeperID=83
+}
+end of generation 259
+currentGeneration = 259
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.59333, 
+fitnessStandardDeviation=4.83611, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=778, 
+bestSweeperID=83
+}
+end of generation 260
+currentGeneration = 260
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=3.02333, 
+fitnessStandardDeviation=4.97823, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=907, 
+bestSweeperID=83
+}
+end of generation 261
+currentGeneration = 261
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.71333, 
+fitnessStandardDeviation=4.84126, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=814, 
+bestSweeperID=225
+}
+end of generation 262
+currentGeneration = 262
+stats =
+Statistics{
+bestFitness=48, 
+averageFitness=2.50333, 
+fitnessStandardDeviation=5.08232, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=751, 
+bestSweeperID=83
+}
+end of generation 263
+currentGeneration = 263
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.59, 
+fitnessStandardDeviation=4.63054, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=777, 
+bestSweeperID=82
+}
+end of generation 264
+currentGeneration = 264
+stats =
+Statistics{
+bestFitness=42, 
+averageFitness=2.76667, 
+fitnessStandardDeviation=4.84413, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=830, 
+bestSweeperID=82
+}
+end of generation 265
+currentGeneration = 265
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.78333, 
+fitnessStandardDeviation=4.76127, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=835, 
+bestSweeperID=83
+}
+end of generation 266
+currentGeneration = 266
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.49667, 
+fitnessStandardDeviation=4.02451, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=749, 
+bestSweeperID=82
+}
+end of generation 267
+currentGeneration = 267
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.63333, 
+fitnessStandardDeviation=4.43233, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=790, 
+bestSweeperID=83
+}
+end of generation 268
+currentGeneration = 268
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.70333, 
+fitnessStandardDeviation=4.72814, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=811, 
+bestSweeperID=82
+}
+end of generation 269
+currentGeneration = 269
+stats =
+Statistics{
+bestFitness=45, 
+averageFitness=2.52, 
+fitnessStandardDeviation=5.04013, 
+pourcentageOfMinelessSweepers=39, 
+totalNumberOfCollectedMines=756, 
+bestSweeperID=82
+}
+end of generation 270
+currentGeneration = 270
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.67, 
+fitnessStandardDeviation=4.71817, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=801, 
+bestSweeperID=82
+}
+end of generation 271
+currentGeneration = 271
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.50667, 
+fitnessStandardDeviation=4.09511, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=752, 
+bestSweeperID=225
+}
+end of generation 272
+currentGeneration = 272
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.46333, 
+fitnessStandardDeviation=4.16517, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=739, 
+bestSweeperID=98
+}
+end of generation 273
+currentGeneration = 273
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.28333, 
+fitnessStandardDeviation=3.85872, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=685, 
+bestSweeperID=144
+}
+end of generation 274
+currentGeneration = 274
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.29333, 
+fitnessStandardDeviation=4.06702, 
+pourcentageOfMinelessSweepers=41, 
+totalNumberOfCollectedMines=688, 
+bestSweeperID=87
+}
+end of generation 275
+currentGeneration = 275
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.13333, 
+fitnessStandardDeviation=3.62338, 
+pourcentageOfMinelessSweepers=40.3333, 
+totalNumberOfCollectedMines=640, 
+bestSweeperID=59
+}
+end of generation 276
+currentGeneration = 276
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.28333, 
+fitnessStandardDeviation=3.51327, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=685, 
+bestSweeperID=225
+}
+end of generation 277
+currentGeneration = 277
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.39667, 
+fitnessStandardDeviation=4.24256, 
+pourcentageOfMinelessSweepers=39.3333, 
+totalNumberOfCollectedMines=719, 
+bestSweeperID=252
+}
+end of generation 278
+currentGeneration = 278
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.64667, 
+fitnessStandardDeviation=4.32533, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=794, 
+bestSweeperID=225
+}
+end of generation 279
+currentGeneration = 279
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.33, 
+fitnessStandardDeviation=3.77903, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=699, 
+bestSweeperID=225
+}
+end of generation 280
+currentGeneration = 280
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.42667, 
+fitnessStandardDeviation=3.75561, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=728, 
+bestSweeperID=82
+}
+end of generation 281
+currentGeneration = 281
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.49, 
+fitnessStandardDeviation=4.34472, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=747, 
+bestSweeperID=225
+}
+end of generation 282
+currentGeneration = 282
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.47667, 
+fitnessStandardDeviation=4.4992, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=743, 
+bestSweeperID=59
+}
+end of generation 283
+currentGeneration = 283
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.24333, 
+fitnessStandardDeviation=4.23448, 
+pourcentageOfMinelessSweepers=43.6667, 
+totalNumberOfCollectedMines=673, 
+bestSweeperID=82
+}
+end of generation 284
+currentGeneration = 284
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.47667, 
+fitnessStandardDeviation=4.15244, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=743, 
+bestSweeperID=13
+}
+end of generation 285
+currentGeneration = 285
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.02667, 
+fitnessStandardDeviation=3.49847, 
+pourcentageOfMinelessSweepers=42.3333, 
+totalNumberOfCollectedMines=608, 
+bestSweeperID=87
+}
+end of generation 286
+currentGeneration = 286
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.57667, 
+fitnessStandardDeviation=4.40047, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=773, 
+bestSweeperID=2
+}
+end of generation 287
+currentGeneration = 287
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.64333, 
+fitnessStandardDeviation=4.6971, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=793, 
+bestSweeperID=59
+}
+end of generation 288
+currentGeneration = 288
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.35, 
+fitnessStandardDeviation=3.81849, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=705, 
+bestSweeperID=225
+}
+end of generation 289
+currentGeneration = 289
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.59, 
+fitnessStandardDeviation=4.24129, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=777, 
+bestSweeperID=15
+}
+end of generation 290
+currentGeneration = 290
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.28333, 
+fitnessStandardDeviation=4.06404, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=685, 
+bestSweeperID=178
+}
+end of generation 291
+currentGeneration = 291
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.32667, 
+fitnessStandardDeviation=4.65044, 
+pourcentageOfMinelessSweepers=39.6667, 
+totalNumberOfCollectedMines=698, 
+bestSweeperID=82
+}
+end of generation 292
+currentGeneration = 292
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.51667, 
+fitnessStandardDeviation=4.55153, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=755, 
+bestSweeperID=252
+}
+end of generation 293
+currentGeneration = 293
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.30333, 
+fitnessStandardDeviation=4.13981, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=691, 
+bestSweeperID=82
+}
+end of generation 294
+currentGeneration = 294
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.52667, 
+fitnessStandardDeviation=3.79771, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=758, 
+bestSweeperID=87
+}
+end of generation 295
+currentGeneration = 295
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.05333, 
+fitnessStandardDeviation=3.68472, 
+pourcentageOfMinelessSweepers=40, 
+totalNumberOfCollectedMines=616, 
+bestSweeperID=252
+}
+end of generation 296
+currentGeneration = 296
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.30333, 
+fitnessStandardDeviation=3.85547, 
+pourcentageOfMinelessSweepers=38, 
+totalNumberOfCollectedMines=691, 
+bestSweeperID=225
+}
+end of generation 297
+currentGeneration = 297
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.57333, 
+fitnessStandardDeviation=4.67311, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=772, 
+bestSweeperID=144
+}
+end of generation 298
+currentGeneration = 298
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.42, 
+fitnessStandardDeviation=4.04602, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=726, 
+bestSweeperID=178
+}
+end of generation 299
+currentGeneration = 299
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.45, 
+fitnessStandardDeviation=4.37731, 
+pourcentageOfMinelessSweepers=42, 
+totalNumberOfCollectedMines=735, 
+bestSweeperID=87
+}
+####MINES AND SWEEPERS REPOSITIONED!!!
+end of generation 300
+currentGeneration = 300
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=3.66, 
+fitnessStandardDeviation=4.39064, 
+pourcentageOfMinelessSweepers=14, 
+totalNumberOfCollectedMines=1098, 
+bestSweeperID=82
+}
+end of generation 301
+currentGeneration = 301
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=3.17667, 
+fitnessStandardDeviation=4.70802, 
+pourcentageOfMinelessSweepers=23.3333, 
+totalNumberOfCollectedMines=953, 
+bestSweeperID=197
+}
+end of generation 302
+currentGeneration = 302
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=3.08, 
+fitnessStandardDeviation=4.49002, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=924, 
+bestSweeperID=82
+}
+end of generation 303
+currentGeneration = 303
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.83, 
+fitnessStandardDeviation=4.04653, 
+pourcentageOfMinelessSweepers=28.6667, 
+totalNumberOfCollectedMines=849, 
+bestSweeperID=225
+}
+end of generation 304
+currentGeneration = 304
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.87667, 
+fitnessStandardDeviation=4.31603, 
+pourcentageOfMinelessSweepers=30, 
+totalNumberOfCollectedMines=863, 
+bestSweeperID=2
+}
+end of generation 305
+currentGeneration = 305
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.72, 
+fitnessStandardDeviation=4.41682, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=816, 
+bestSweeperID=82
+}
+end of generation 306
+currentGeneration = 306
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=3.24333, 
+fitnessStandardDeviation=4.62934, 
+pourcentageOfMinelessSweepers=26, 
+totalNumberOfCollectedMines=973, 
+bestSweeperID=83
+}
+end of generation 307
+currentGeneration = 307
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.72, 
+fitnessStandardDeviation=4.65563, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=816, 
+bestSweeperID=83
+}
+end of generation 308
+currentGeneration = 308
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.94333, 
+fitnessStandardDeviation=4.67548, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=883, 
+bestSweeperID=82
+}
+end of generation 309
+currentGeneration = 309
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.70333, 
+fitnessStandardDeviation=4.58788, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=811, 
+bestSweeperID=83
+}
+end of generation 310
+currentGeneration = 310
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.9, 
+fitnessStandardDeviation=4.96823, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=870, 
+bestSweeperID=82
+}
+end of generation 311
+currentGeneration = 311
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.87, 
+fitnessStandardDeviation=4.67188, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=861, 
+bestSweeperID=82
+}
+end of generation 312
+currentGeneration = 312
+stats =
+Statistics{
+bestFitness=40, 
+averageFitness=2.95, 
+fitnessStandardDeviation=5.12973, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=885, 
+bestSweeperID=83
+}
+end of generation 313
+currentGeneration = 313
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.61667, 
+fitnessStandardDeviation=4.25007, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=785, 
+bestSweeperID=225
+}
+end of generation 314
+currentGeneration = 314
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.78333, 
+fitnessStandardDeviation=4.00538, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=835, 
+bestSweeperID=13
+}
+end of generation 315
+currentGeneration = 315
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.73, 
+fitnessStandardDeviation=4.09029, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=819, 
+bestSweeperID=83
+}
+end of generation 316
+currentGeneration = 316
+stats =
+Statistics{
+bestFitness=44, 
+averageFitness=3.06333, 
+fitnessStandardDeviation=5.22424, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=919, 
+bestSweeperID=82
+}
+end of generation 317
+currentGeneration = 317
+stats =
+Statistics{
+bestFitness=44, 
+averageFitness=3.01667, 
+fitnessStandardDeviation=5.03353, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=905, 
+bestSweeperID=83
+}
+end of generation 318
+currentGeneration = 318
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.22333, 
+fitnessStandardDeviation=3.57679, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=667, 
+bestSweeperID=225
+}
+end of generation 319
+currentGeneration = 319
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.15333, 
+fitnessStandardDeviation=3.4684, 
+pourcentageOfMinelessSweepers=40, 
+totalNumberOfCollectedMines=646, 
+bestSweeperID=17
+}
+end of generation 320
+currentGeneration = 320
+stats =
+Statistics{
+bestFitness=19, 
+averageFitness=2.09667, 
+fitnessStandardDeviation=3.4001, 
+pourcentageOfMinelessSweepers=39.3333, 
+totalNumberOfCollectedMines=629, 
+bestSweeperID=144
+}
+end of generation 321
+currentGeneration = 321
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.59333, 
+fitnessStandardDeviation=4.15226, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=778, 
+bestSweeperID=225
+}
+end of generation 322
+currentGeneration = 322
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.78667, 
+fitnessStandardDeviation=4.59578, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=836, 
+bestSweeperID=59
+}
+end of generation 323
+currentGeneration = 323
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.62333, 
+fitnessStandardDeviation=4.43713, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=787, 
+bestSweeperID=83
+}
+end of generation 324
+currentGeneration = 324
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.97333, 
+fitnessStandardDeviation=4.78114, 
+pourcentageOfMinelessSweepers=27.3333, 
+totalNumberOfCollectedMines=892, 
+bestSweeperID=83
+}
+end of generation 325
+currentGeneration = 325
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.7, 
+fitnessStandardDeviation=4.3928, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=810, 
+bestSweeperID=82
+}
+end of generation 326
+currentGeneration = 326
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.46667, 
+fitnessStandardDeviation=4.39191, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=740, 
+bestSweeperID=225
+}
+end of generation 327
+currentGeneration = 327
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.25333, 
+fitnessStandardDeviation=3.66367, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=676, 
+bestSweeperID=87
+}
+end of generation 328
+currentGeneration = 328
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.59, 
+fitnessStandardDeviation=4.2843, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=777, 
+bestSweeperID=82
+}
+end of generation 329
+currentGeneration = 329
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.45, 
+fitnessStandardDeviation=3.63971, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=735, 
+bestSweeperID=55
+}
+end of generation 330
+currentGeneration = 330
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.56667, 
+fitnessStandardDeviation=4.0314, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=770, 
+bestSweeperID=144
+}
+end of generation 331
+currentGeneration = 331
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.7, 
+fitnessStandardDeviation=4.10244, 
+pourcentageOfMinelessSweepers=30, 
+totalNumberOfCollectedMines=810, 
+bestSweeperID=225
+}
+end of generation 332
+currentGeneration = 332
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.17667, 
+fitnessStandardDeviation=3.23091, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=653, 
+bestSweeperID=2
+}
+end of generation 333
+currentGeneration = 333
+stats =
+Statistics{
+bestFitness=20, 
+averageFitness=2.29, 
+fitnessStandardDeviation=3.60082, 
+pourcentageOfMinelessSweepers=37.6667, 
+totalNumberOfCollectedMines=687, 
+bestSweeperID=178
+}
+end of generation 334
+currentGeneration = 334
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.25667, 
+fitnessStandardDeviation=3.53423, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=677, 
+bestSweeperID=215
+}
+end of generation 335
+currentGeneration = 335
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.39, 
+fitnessStandardDeviation=3.65211, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=717, 
+bestSweeperID=144
+}
+end of generation 336
+currentGeneration = 336
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.44667, 
+fitnessStandardDeviation=4.15858, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=734, 
+bestSweeperID=197
+}
+end of generation 337
+currentGeneration = 337
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.43, 
+fitnessStandardDeviation=3.85034, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=729, 
+bestSweeperID=225
+}
+end of generation 338
+currentGeneration = 338
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.95667, 
+fitnessStandardDeviation=4.50941, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=887, 
+bestSweeperID=13
+}
+end of generation 339
+currentGeneration = 339
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.39333, 
+fitnessStandardDeviation=3.92496, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=718, 
+bestSweeperID=13
+}
+end of generation 340
+currentGeneration = 340
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.28667, 
+fitnessStandardDeviation=3.69565, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=686, 
+bestSweeperID=205
+}
+end of generation 341
+currentGeneration = 341
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.35, 
+fitnessStandardDeviation=3.71405, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=705, 
+bestSweeperID=87
+}
+end of generation 342
+currentGeneration = 342
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.73, 
+fitnessStandardDeviation=4.24858, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=819, 
+bestSweeperID=219
+}
+end of generation 343
+currentGeneration = 343
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.41333, 
+fitnessStandardDeviation=3.60405, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=724, 
+bestSweeperID=144
+}
+end of generation 344
+currentGeneration = 344
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.55333, 
+fitnessStandardDeviation=4.08581, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=766, 
+bestSweeperID=215
+}
+end of generation 345
+currentGeneration = 345
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.65667, 
+fitnessStandardDeviation=4.73696, 
+pourcentageOfMinelessSweepers=37.6667, 
+totalNumberOfCollectedMines=797, 
+bestSweeperID=59
+}
+end of generation 346
+currentGeneration = 346
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.46, 
+fitnessStandardDeviation=3.88524, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=738, 
+bestSweeperID=166
+}
+end of generation 347
+currentGeneration = 347
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.48333, 
+fitnessStandardDeviation=4.31622, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=745, 
+bestSweeperID=59
+}
+end of generation 348
+currentGeneration = 348
+stats =
+Statistics{
+bestFitness=41, 
+averageFitness=2.46667, 
+fitnessStandardDeviation=4.60821, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=740, 
+bestSweeperID=144
+}
+end of generation 349
+currentGeneration = 349
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.77, 
+fitnessStandardDeviation=4.69721, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=831, 
+bestSweeperID=144
+}
+end of generation 350
+currentGeneration = 350
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.32, 
+fitnessStandardDeviation=3.77945, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=696, 
+bestSweeperID=225
+}
+end of generation 351
+currentGeneration = 351
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.09333, 
+fitnessStandardDeviation=3.47054, 
+pourcentageOfMinelessSweepers=40.3333, 
+totalNumberOfCollectedMines=628, 
+bestSweeperID=144
+}
+end of generation 352
+currentGeneration = 352
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.32333, 
+fitnessStandardDeviation=3.86852, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=697, 
+bestSweeperID=178
+}
+end of generation 353
+currentGeneration = 353
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.57, 
+fitnessStandardDeviation=4.16394, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=771, 
+bestSweeperID=225
+}
+end of generation 354
+currentGeneration = 354
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.61, 
+fitnessStandardDeviation=4.14221, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=783, 
+bestSweeperID=252
+}
+end of generation 355
+currentGeneration = 355
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.41333, 
+fitnessStandardDeviation=3.98779, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=724, 
+bestSweeperID=225
+}
+end of generation 356
+currentGeneration = 356
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.38667, 
+fitnessStandardDeviation=4.13648, 
+pourcentageOfMinelessSweepers=37.6667, 
+totalNumberOfCollectedMines=716, 
+bestSweeperID=225
+}
+end of generation 357
+currentGeneration = 357
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.56667, 
+fitnessStandardDeviation=4.59263, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=770, 
+bestSweeperID=82
+}
+end of generation 358
+currentGeneration = 358
+stats =
+Statistics{
+bestFitness=44, 
+averageFitness=2.49, 
+fitnessStandardDeviation=4.94738, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=747, 
+bestSweeperID=82
+}
+end of generation 359
+currentGeneration = 359
+stats =
+Statistics{
+bestFitness=43, 
+averageFitness=2.98333, 
+fitnessStandardDeviation=5.57582, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=895, 
+bestSweeperID=82
+}
+end of generation 360
+currentGeneration = 360
+stats =
+Statistics{
+bestFitness=48, 
+averageFitness=2.58333, 
+fitnessStandardDeviation=5.17008, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=775, 
+bestSweeperID=82
+}
+end of generation 361
+currentGeneration = 361
+stats =
+Statistics{
+bestFitness=46, 
+averageFitness=2.81333, 
+fitnessStandardDeviation=5.35087, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=844, 
+bestSweeperID=82
+}
+end of generation 362
+currentGeneration = 362
+stats =
+Statistics{
+bestFitness=46, 
+averageFitness=2.36333, 
+fitnessStandardDeviation=4.86806, 
+pourcentageOfMinelessSweepers=41.6667, 
+totalNumberOfCollectedMines=709, 
+bestSweeperID=83
+}
+end of generation 363
+currentGeneration = 363
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.36, 
+fitnessStandardDeviation=4.41177, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=708, 
+bestSweeperID=83
+}
+end of generation 364
+currentGeneration = 364
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.5, 
+fitnessStandardDeviation=4.63213, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=750, 
+bestSweeperID=82
+}
+end of generation 365
+currentGeneration = 365
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.57, 
+fitnessStandardDeviation=4.28856, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=771, 
+bestSweeperID=205
+}
+end of generation 366
+currentGeneration = 366
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.34667, 
+fitnessStandardDeviation=4.3924, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=704, 
+bestSweeperID=83
+}
+end of generation 367
+currentGeneration = 367
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.31667, 
+fitnessStandardDeviation=3.58558, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=695, 
+bestSweeperID=59
+}
+end of generation 368
+currentGeneration = 368
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.48, 
+fitnessStandardDeviation=4.26336, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=744, 
+bestSweeperID=83
+}
+end of generation 369
+currentGeneration = 369
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.59, 
+fitnessStandardDeviation=4.85063, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=777, 
+bestSweeperID=83
+}
+end of generation 370
+currentGeneration = 370
+stats =
+Statistics{
+bestFitness=45, 
+averageFitness=2.21333, 
+fitnessStandardDeviation=4.61532, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=664, 
+bestSweeperID=82
+}
+end of generation 371
+currentGeneration = 371
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.38667, 
+fitnessStandardDeviation=4.31399, 
+pourcentageOfMinelessSweepers=39.6667, 
+totalNumberOfCollectedMines=716, 
+bestSweeperID=144
+}
+end of generation 372
+currentGeneration = 372
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.57667, 
+fitnessStandardDeviation=4.30319, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=773, 
+bestSweeperID=82
+}
+end of generation 373
+currentGeneration = 373
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.59333, 
+fitnessStandardDeviation=4.53446, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=778, 
+bestSweeperID=13
+}
+end of generation 374
+currentGeneration = 374
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.36333, 
+fitnessStandardDeviation=3.6384, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=709, 
+bestSweeperID=144
+}
+end of generation 375
+currentGeneration = 375
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.22667, 
+fitnessStandardDeviation=3.98856, 
+pourcentageOfMinelessSweepers=40.6667, 
+totalNumberOfCollectedMines=668, 
+bestSweeperID=225
+}
+end of generation 376
+currentGeneration = 376
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.17, 
+fitnessStandardDeviation=3.88687, 
+pourcentageOfMinelessSweepers=39.3333, 
+totalNumberOfCollectedMines=651, 
+bestSweeperID=13
+}
+end of generation 377
+currentGeneration = 377
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=1.98667, 
+fitnessStandardDeviation=3.08218, 
+pourcentageOfMinelessSweepers=41, 
+totalNumberOfCollectedMines=596, 
+bestSweeperID=13
+}
+end of generation 378
+currentGeneration = 378
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.76333, 
+fitnessStandardDeviation=4.75542, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=829, 
+bestSweeperID=153
+}
+end of generation 379
+currentGeneration = 379
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.52333, 
+fitnessStandardDeviation=4.30304, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=757, 
+bestSweeperID=83
+}
+end of generation 380
+currentGeneration = 380
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.46333, 
+fitnessStandardDeviation=4.28975, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=739, 
+bestSweeperID=13
+}
+end of generation 381
+currentGeneration = 381
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.56667, 
+fitnessStandardDeviation=4.15278, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=770, 
+bestSweeperID=59
+}
+end of generation 382
+currentGeneration = 382
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.93333, 
+fitnessStandardDeviation=5.13442, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=880, 
+bestSweeperID=83
+}
+end of generation 383
+currentGeneration = 383
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.68, 
+fitnessStandardDeviation=4.24471, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=804, 
+bestSweeperID=13
+}
+end of generation 384
+currentGeneration = 384
+stats =
+Statistics{
+bestFitness=45, 
+averageFitness=2.82, 
+fitnessStandardDeviation=5.4155, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=846, 
+bestSweeperID=83
+}
+end of generation 385
+currentGeneration = 385
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.49333, 
+fitnessStandardDeviation=4.56471, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=748, 
+bestSweeperID=83
+}
+end of generation 386
+currentGeneration = 386
+stats =
+Statistics{
+bestFitness=47, 
+averageFitness=2.62667, 
+fitnessStandardDeviation=5.18465, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=788, 
+bestSweeperID=83
+}
+end of generation 387
+currentGeneration = 387
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.65, 
+fitnessStandardDeviation=4.62754, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=795, 
+bestSweeperID=83
+}
+end of generation 388
+currentGeneration = 388
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.53333, 
+fitnessStandardDeviation=4.3729, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=760, 
+bestSweeperID=2
+}
+end of generation 389
+currentGeneration = 389
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.45, 
+fitnessStandardDeviation=4.44006, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=735, 
+bestSweeperID=82
+}
+end of generation 390
+currentGeneration = 390
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.29333, 
+fitnessStandardDeviation=3.9817, 
+pourcentageOfMinelessSweepers=40, 
+totalNumberOfCollectedMines=688, 
+bestSweeperID=82
+}
+end of generation 391
+currentGeneration = 391
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.34667, 
+fitnessStandardDeviation=4.02821, 
+pourcentageOfMinelessSweepers=39.6667, 
+totalNumberOfCollectedMines=704, 
+bestSweeperID=219
+}
+end of generation 392
+currentGeneration = 392
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.48333, 
+fitnessStandardDeviation=4.56031, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=745, 
+bestSweeperID=59
+}
+end of generation 393
+currentGeneration = 393
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.38333, 
+fitnessStandardDeviation=4.14122, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=715, 
+bestSweeperID=83
+}
+end of generation 394
+currentGeneration = 394
+stats =
+Statistics{
+bestFitness=45, 
+averageFitness=2.69667, 
+fitnessStandardDeviation=5.16507, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=809, 
+bestSweeperID=82
+}
+end of generation 395
+currentGeneration = 395
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.51, 
+fitnessStandardDeviation=4.62636, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=753, 
+bestSweeperID=83
+}
+end of generation 396
+currentGeneration = 396
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.34667, 
+fitnessStandardDeviation=3.81835, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=704, 
+bestSweeperID=13
+}
+end of generation 397
+currentGeneration = 397
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.39, 
+fitnessStandardDeviation=3.89417, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=717, 
+bestSweeperID=13
+}
+end of generation 398
+currentGeneration = 398
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.94, 
+fitnessStandardDeviation=4.77386, 
+pourcentageOfMinelessSweepers=27, 
+totalNumberOfCollectedMines=882, 
+bestSweeperID=225
+}
+end of generation 399
+currentGeneration = 399
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.88, 
+fitnessStandardDeviation=4.75874, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=864, 
+bestSweeperID=13
+}
+####MINES AND SWEEPERS REPOSITIONED!!!
+end of generation 400
+currentGeneration = 400
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=3.74333, 
+fitnessStandardDeviation=4.17582, 
+pourcentageOfMinelessSweepers=15, 
+totalNumberOfCollectedMines=1123, 
+bestSweeperID=83
+}
+end of generation 401
+currentGeneration = 401
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=3.07333, 
+fitnessStandardDeviation=4.56377, 
+pourcentageOfMinelessSweepers=27, 
+totalNumberOfCollectedMines=922, 
+bestSweeperID=144
+}
+end of generation 402
+currentGeneration = 402
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=3.39667, 
+fitnessStandardDeviation=5.1723, 
+pourcentageOfMinelessSweepers=25.3333, 
+totalNumberOfCollectedMines=1019, 
+bestSweeperID=82
+}
+end of generation 403
+currentGeneration = 403
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.75, 
+fitnessStandardDeviation=4.8457, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=825, 
+bestSweeperID=83
+}
+end of generation 404
+currentGeneration = 404
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.86667, 
+fitnessStandardDeviation=4.66714, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=860, 
+bestSweeperID=82
+}
+end of generation 405
+currentGeneration = 405
+stats =
+Statistics{
+bestFitness=49, 
+averageFitness=3.00667, 
+fitnessStandardDeviation=5.39382, 
+pourcentageOfMinelessSweepers=28.6667, 
+totalNumberOfCollectedMines=902, 
+bestSweeperID=83
+}
+end of generation 406
+currentGeneration = 406
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.9, 
+fitnessStandardDeviation=4.63717, 
+pourcentageOfMinelessSweepers=28.6667, 
+totalNumberOfCollectedMines=870, 
+bestSweeperID=83
+}
+end of generation 407
+currentGeneration = 407
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=3.04667, 
+fitnessStandardDeviation=4.4607, 
+pourcentageOfMinelessSweepers=27.3333, 
+totalNumberOfCollectedMines=914, 
+bestSweeperID=83
+}
+end of generation 408
+currentGeneration = 408
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.81333, 
+fitnessStandardDeviation=4.28157, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=844, 
+bestSweeperID=87
+}
+end of generation 409
+currentGeneration = 409
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=3.13, 
+fitnessStandardDeviation=5.02193, 
+pourcentageOfMinelessSweepers=26.3333, 
+totalNumberOfCollectedMines=939, 
+bestSweeperID=82
+}
+end of generation 410
+currentGeneration = 410
+stats =
+Statistics{
+bestFitness=41, 
+averageFitness=3.04667, 
+fitnessStandardDeviation=5.17731, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=914, 
+bestSweeperID=83
+}
+end of generation 411
+currentGeneration = 411
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.95333, 
+fitnessStandardDeviation=4.33103, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=886, 
+bestSweeperID=13
+}
+end of generation 412
+currentGeneration = 412
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.92667, 
+fitnessStandardDeviation=4.65274, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=878, 
+bestSweeperID=82
+}
+end of generation 413
+currentGeneration = 413
+stats =
+Statistics{
+bestFitness=48, 
+averageFitness=2.68, 
+fitnessStandardDeviation=5.0396, 
+pourcentageOfMinelessSweepers=30, 
+totalNumberOfCollectedMines=804, 
+bestSweeperID=83
+}
+end of generation 414
+currentGeneration = 414
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.6, 
+fitnessStandardDeviation=3.74967, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=780, 
+bestSweeperID=252
+}
+end of generation 415
+currentGeneration = 415
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.84, 
+fitnessStandardDeviation=4.68413, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=852, 
+bestSweeperID=83
+}
+end of generation 416
+currentGeneration = 416
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=3.04667, 
+fitnessStandardDeviation=4.96835, 
+pourcentageOfMinelessSweepers=25, 
+totalNumberOfCollectedMines=914, 
+bestSweeperID=13
+}
+end of generation 417
+currentGeneration = 417
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.87667, 
+fitnessStandardDeviation=4.74498, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=863, 
+bestSweeperID=82
+}
+end of generation 418
+currentGeneration = 418
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.78333, 
+fitnessStandardDeviation=4.43506, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=835, 
+bestSweeperID=219
+}
+end of generation 419
+currentGeneration = 419
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.91667, 
+fitnessStandardDeviation=4.21225, 
+pourcentageOfMinelessSweepers=26.6667, 
+totalNumberOfCollectedMines=875, 
+bestSweeperID=13
+}
+end of generation 420
+currentGeneration = 420
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.36, 
+fitnessStandardDeviation=3.70725, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=708, 
+bestSweeperID=82
+}
+end of generation 421
+currentGeneration = 421
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.55, 
+fitnessStandardDeviation=4.25137, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=765, 
+bestSweeperID=144
+}
+end of generation 422
+currentGeneration = 422
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.48667, 
+fitnessStandardDeviation=3.61891, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=746, 
+bestSweeperID=225
+}
+end of generation 423
+currentGeneration = 423
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.96333, 
+fitnessStandardDeviation=4.41686, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=889, 
+bestSweeperID=219
+}
+end of generation 424
+currentGeneration = 424
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.41667, 
+fitnessStandardDeviation=3.67193, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=725, 
+bestSweeperID=55
+}
+end of generation 425
+currentGeneration = 425
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.58333, 
+fitnessStandardDeviation=4.1605, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=775, 
+bestSweeperID=2
+}
+end of generation 426
+currentGeneration = 426
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.31, 
+fitnessStandardDeviation=3.54127, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=693, 
+bestSweeperID=83
+}
+end of generation 427
+currentGeneration = 427
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.61667, 
+fitnessStandardDeviation=4.28521, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=785, 
+bestSweeperID=59
+}
+end of generation 428
+currentGeneration = 428
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.46, 
+fitnessStandardDeviation=3.98853, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=738, 
+bestSweeperID=82
+}
+end of generation 429
+currentGeneration = 429
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.58333, 
+fitnessStandardDeviation=4.04842, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=775, 
+bestSweeperID=12
+}
+end of generation 430
+currentGeneration = 430
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.59333, 
+fitnessStandardDeviation=3.89118, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=778, 
+bestSweeperID=144
+}
+end of generation 431
+currentGeneration = 431
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.6, 
+fitnessStandardDeviation=3.96316, 
+pourcentageOfMinelessSweepers=27, 
+totalNumberOfCollectedMines=780, 
+bestSweeperID=17
+}
+end of generation 432
+currentGeneration = 432
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.56667, 
+fitnessStandardDeviation=4.36641, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=770, 
+bestSweeperID=225
+}
+end of generation 433
+currentGeneration = 433
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.3, 
+fitnessStandardDeviation=3.93827, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=690, 
+bestSweeperID=13
+}
+end of generation 434
+currentGeneration = 434
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.51667, 
+fitnessStandardDeviation=4.01452, 
+pourcentageOfMinelessSweepers=37.6667, 
+totalNumberOfCollectedMines=755, 
+bestSweeperID=144
+}
+end of generation 435
+currentGeneration = 435
+stats =
+Statistics{
+bestFitness=19, 
+averageFitness=2.25667, 
+fitnessStandardDeviation=3.45217, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=677, 
+bestSweeperID=225
+}
+end of generation 436
+currentGeneration = 436
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.06667, 
+fitnessStandardDeviation=3.49412, 
+pourcentageOfMinelessSweepers=39, 
+totalNumberOfCollectedMines=620, 
+bestSweeperID=252
+}
+end of generation 437
+currentGeneration = 437
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.45, 
+fitnessStandardDeviation=3.98591, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=735, 
+bestSweeperID=13
+}
+end of generation 438
+currentGeneration = 438
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.57667, 
+fitnessStandardDeviation=4.17582, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=773, 
+bestSweeperID=197
+}
+end of generation 439
+currentGeneration = 439
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.53667, 
+fitnessStandardDeviation=4.19865, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=761, 
+bestSweeperID=215
+}
+end of generation 440
+currentGeneration = 440
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.54667, 
+fitnessStandardDeviation=3.94814, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=764, 
+bestSweeperID=144
+}
+end of generation 441
+currentGeneration = 441
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.57, 
+fitnessStandardDeviation=4.02141, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=771, 
+bestSweeperID=59
+}
+end of generation 442
+currentGeneration = 442
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.49333, 
+fitnessStandardDeviation=4.27044, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=748, 
+bestSweeperID=59
+}
+end of generation 443
+currentGeneration = 443
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.36667, 
+fitnessStandardDeviation=3.73973, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=710, 
+bestSweeperID=13
+}
+end of generation 444
+currentGeneration = 444
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.76, 
+fitnessStandardDeviation=4.12259, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=828, 
+bestSweeperID=225
+}
+end of generation 445
+currentGeneration = 445
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.32333, 
+fitnessStandardDeviation=3.58033, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=697, 
+bestSweeperID=144
+}
+end of generation 446
+currentGeneration = 446
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.48, 
+fitnessStandardDeviation=4.42149, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=744, 
+bestSweeperID=252
+}
+end of generation 447
+currentGeneration = 447
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.47667, 
+fitnessStandardDeviation=3.87678, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=743, 
+bestSweeperID=144
+}
+end of generation 448
+currentGeneration = 448
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.35, 
+fitnessStandardDeviation=3.79748, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=705, 
+bestSweeperID=83
+}
+end of generation 449
+currentGeneration = 449
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.68333, 
+fitnessStandardDeviation=4.3247, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=805, 
+bestSweeperID=215
+}
+end of generation 450
+currentGeneration = 450
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.41667, 
+fitnessStandardDeviation=3.83446, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=725, 
+bestSweeperID=13
+}
+end of generation 451
+currentGeneration = 451
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.70333, 
+fitnessStandardDeviation=4.11768, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=811, 
+bestSweeperID=144
+}
+end of generation 452
+currentGeneration = 452
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.42667, 
+fitnessStandardDeviation=3.91382, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=728, 
+bestSweeperID=197
+}
+end of generation 453
+currentGeneration = 453
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.23333, 
+fitnessStandardDeviation=3.73705, 
+pourcentageOfMinelessSweepers=39.3333, 
+totalNumberOfCollectedMines=670, 
+bestSweeperID=252
+}
+end of generation 454
+currentGeneration = 454
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.26, 
+fitnessStandardDeviation=3.61281, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=678, 
+bestSweeperID=13
+}
+end of generation 455
+currentGeneration = 455
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.36, 
+fitnessStandardDeviation=3.78467, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=708, 
+bestSweeperID=225
+}
+end of generation 456
+currentGeneration = 456
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.47, 
+fitnessStandardDeviation=4.17082, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=741, 
+bestSweeperID=144
+}
+end of generation 457
+currentGeneration = 457
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.38, 
+fitnessStandardDeviation=3.70616, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=714, 
+bestSweeperID=197
+}
+end of generation 458
+currentGeneration = 458
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.66, 
+fitnessStandardDeviation=4.81917, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=798, 
+bestSweeperID=82
+}
+end of generation 459
+currentGeneration = 459
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.78333, 
+fitnessStandardDeviation=4.50959, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=835, 
+bestSweeperID=280
+}
+end of generation 460
+currentGeneration = 460
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=3.00333, 
+fitnessStandardDeviation=4.87681, 
+pourcentageOfMinelessSweepers=27.3333, 
+totalNumberOfCollectedMines=901, 
+bestSweeperID=13
+}
+end of generation 461
+currentGeneration = 461
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.6, 
+fitnessStandardDeviation=4.2111, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=780, 
+bestSweeperID=89
+}
+end of generation 462
+currentGeneration = 462
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.66667, 
+fitnessStandardDeviation=4.82033, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=800, 
+bestSweeperID=82
+}
+end of generation 463
+currentGeneration = 463
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.35, 
+fitnessStandardDeviation=3.97754, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=705, 
+bestSweeperID=225
+}
+end of generation 464
+currentGeneration = 464
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.31, 
+fitnessStandardDeviation=3.79217, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=693, 
+bestSweeperID=82
+}
+end of generation 465
+currentGeneration = 465
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.22667, 
+fitnessStandardDeviation=3.81776, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=668, 
+bestSweeperID=17
+}
+end of generation 466
+currentGeneration = 466
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.31667, 
+fitnessStandardDeviation=3.59579, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=695, 
+bestSweeperID=13
+}
+end of generation 467
+currentGeneration = 467
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.47333, 
+fitnessStandardDeviation=4.1876, 
+pourcentageOfMinelessSweepers=39, 
+totalNumberOfCollectedMines=742, 
+bestSweeperID=144
+}
+end of generation 468
+currentGeneration = 468
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=1.89333, 
+fitnessStandardDeviation=3.28562, 
+pourcentageOfMinelessSweepers=42.3333, 
+totalNumberOfCollectedMines=568, 
+bestSweeperID=252
+}
+end of generation 469
+currentGeneration = 469
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.14667, 
+fitnessStandardDeviation=3.58122, 
+pourcentageOfMinelessSweepers=38.6667, 
+totalNumberOfCollectedMines=644, 
+bestSweeperID=13
+}
+end of generation 470
+currentGeneration = 470
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.34333, 
+fitnessStandardDeviation=3.99151, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=703, 
+bestSweeperID=13
+}
+end of generation 471
+currentGeneration = 471
+stats =
+Statistics{
+bestFitness=45, 
+averageFitness=2.63, 
+fitnessStandardDeviation=5.21086, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=789, 
+bestSweeperID=59
+}
+end of generation 472
+currentGeneration = 472
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.39667, 
+fitnessStandardDeviation=4.04961, 
+pourcentageOfMinelessSweepers=39.3333, 
+totalNumberOfCollectedMines=719, 
+bestSweeperID=2
+}
+end of generation 473
+currentGeneration = 473
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.71, 
+fitnessStandardDeviation=4.19117, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=813, 
+bestSweeperID=82
+}
+end of generation 474
+currentGeneration = 474
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.35667, 
+fitnessStandardDeviation=4.46648, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=707, 
+bestSweeperID=83
+}
+end of generation 475
+currentGeneration = 475
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.56333, 
+fitnessStandardDeviation=4.15122, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=769, 
+bestSweeperID=82
+}
+end of generation 476
+currentGeneration = 476
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.46333, 
+fitnessStandardDeviation=4.44695, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=739, 
+bestSweeperID=82
+}
+end of generation 477
+currentGeneration = 477
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.56, 
+fitnessStandardDeviation=4.34355, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=768, 
+bestSweeperID=144
+}
+end of generation 478
+currentGeneration = 478
+stats =
+Statistics{
+bestFitness=39, 
+averageFitness=2.43, 
+fitnessStandardDeviation=4.57658, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=729, 
+bestSweeperID=225
+}
+end of generation 479
+currentGeneration = 479
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.69667, 
+fitnessStandardDeviation=4.60051, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=809, 
+bestSweeperID=82
+}
+end of generation 480
+currentGeneration = 480
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.43333, 
+fitnessStandardDeviation=4.03388, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=730, 
+bestSweeperID=82
+}
+end of generation 481
+currentGeneration = 481
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.58667, 
+fitnessStandardDeviation=4.48432, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=776, 
+bestSweeperID=59
+}
+end of generation 482
+currentGeneration = 482
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.25333, 
+fitnessStandardDeviation=4.539, 
+pourcentageOfMinelessSweepers=40.3333, 
+totalNumberOfCollectedMines=676, 
+bestSweeperID=83
+}
+end of generation 483
+currentGeneration = 483
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.45667, 
+fitnessStandardDeviation=4.61318, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=737, 
+bestSweeperID=82
+}
+end of generation 484
+currentGeneration = 484
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.60667, 
+fitnessStandardDeviation=4.65388, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=782, 
+bestSweeperID=197
+}
+end of generation 485
+currentGeneration = 485
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.42667, 
+fitnessStandardDeviation=4.06669, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=728, 
+bestSweeperID=2
+}
+end of generation 486
+currentGeneration = 486
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.12667, 
+fitnessStandardDeviation=3.83718, 
+pourcentageOfMinelessSweepers=39, 
+totalNumberOfCollectedMines=638, 
+bestSweeperID=225
+}
+end of generation 487
+currentGeneration = 487
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.36, 
+fitnessStandardDeviation=4.32324, 
+pourcentageOfMinelessSweepers=38.3333, 
+totalNumberOfCollectedMines=708, 
+bestSweeperID=144
+}
+end of generation 488
+currentGeneration = 488
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.48333, 
+fitnessStandardDeviation=4.15889, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=745, 
+bestSweeperID=59
+}
+end of generation 489
+currentGeneration = 489
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.55, 
+fitnessStandardDeviation=4.18101, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=765, 
+bestSweeperID=13
+}
+end of generation 490
+currentGeneration = 490
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.16667, 
+fitnessStandardDeviation=3.46298, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=650, 
+bestSweeperID=2
+}
+end of generation 491
+currentGeneration = 491
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.55667, 
+fitnessStandardDeviation=4.48852, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=767, 
+bestSweeperID=225
+}
+end of generation 492
+currentGeneration = 492
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.23333, 
+fitnessStandardDeviation=3.82434, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=670, 
+bestSweeperID=13
+}
+end of generation 493
+currentGeneration = 493
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.47333, 
+fitnessStandardDeviation=4.29449, 
+pourcentageOfMinelessSweepers=37.3333, 
+totalNumberOfCollectedMines=742, 
+bestSweeperID=197
+}
+end of generation 494
+currentGeneration = 494
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.17, 
+fitnessStandardDeviation=3.92782, 
+pourcentageOfMinelessSweepers=39.6667, 
+totalNumberOfCollectedMines=651, 
+bestSweeperID=225
+}
+end of generation 495
+currentGeneration = 495
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.47, 
+fitnessStandardDeviation=3.82916, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=741, 
+bestSweeperID=225
+}
+end of generation 496
+currentGeneration = 496
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.32667, 
+fitnessStandardDeviation=3.60832, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=698, 
+bestSweeperID=225
+}
+end of generation 497
+currentGeneration = 497
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.61333, 
+fitnessStandardDeviation=4.42084, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=784, 
+bestSweeperID=205
+}
+end of generation 498
+currentGeneration = 498
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.86667, 
+fitnessStandardDeviation=4.72958, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=860, 
+bestSweeperID=83
+}
+end of generation 499
+currentGeneration = 499
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.73, 
+fitnessStandardDeviation=4.73115, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=819, 
+bestSweeperID=225
+}
+####MINES AND SWEEPERS REPOSITIONED!!!
+end of generation 500
+currentGeneration = 500
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=3.50333, 
+fitnessStandardDeviation=4.45683, 
+pourcentageOfMinelessSweepers=19.6667, 
+totalNumberOfCollectedMines=1051, 
+bestSweeperID=83
+}
+end of generation 501
+currentGeneration = 501
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=3.2, 
+fitnessStandardDeviation=4.56508, 
+pourcentageOfMinelessSweepers=23.3333, 
+totalNumberOfCollectedMines=960, 
+bestSweeperID=82
+}
+end of generation 502
+currentGeneration = 502
+stats =
+Statistics{
+bestFitness=41, 
+averageFitness=3.20667, 
+fitnessStandardDeviation=4.81497, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=962, 
+bestSweeperID=83
+}
+end of generation 503
+currentGeneration = 503
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=3.23, 
+fitnessStandardDeviation=4.56696, 
+pourcentageOfMinelessSweepers=25.6667, 
+totalNumberOfCollectedMines=969, 
+bestSweeperID=82
+}
+end of generation 504
+currentGeneration = 504
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.93667, 
+fitnessStandardDeviation=4.54965, 
+pourcentageOfMinelessSweepers=27.3333, 
+totalNumberOfCollectedMines=881, 
+bestSweeperID=83
+}
+end of generation 505
+currentGeneration = 505
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.76, 
+fitnessStandardDeviation=4.49471, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=828, 
+bestSweeperID=83
+}
+end of generation 506
+currentGeneration = 506
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.87, 
+fitnessStandardDeviation=4.50479, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=861, 
+bestSweeperID=82
+}
+end of generation 507
+currentGeneration = 507
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.76, 
+fitnessStandardDeviation=4.6464, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=828, 
+bestSweeperID=83
+}
+end of generation 508
+currentGeneration = 508
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=3.00333, 
+fitnessStandardDeviation=4.1821, 
+pourcentageOfMinelessSweepers=26.6667, 
+totalNumberOfCollectedMines=901, 
+bestSweeperID=215
+}
+end of generation 509
+currentGeneration = 509
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=3.02333, 
+fitnessStandardDeviation=4.5632, 
+pourcentageOfMinelessSweepers=27.3333, 
+totalNumberOfCollectedMines=907, 
+bestSweeperID=252
+}
+end of generation 510
+currentGeneration = 510
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.77333, 
+fitnessStandardDeviation=4.01189, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=832, 
+bestSweeperID=87
+}
+end of generation 511
+currentGeneration = 511
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.64, 
+fitnessStandardDeviation=3.96279, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=792, 
+bestSweeperID=225
+}
+end of generation 512
+currentGeneration = 512
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.93667, 
+fitnessStandardDeviation=4.78532, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=881, 
+bestSweeperID=135
+}
+end of generation 513
+currentGeneration = 513
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=3.14, 
+fitnessStandardDeviation=4.59787, 
+pourcentageOfMinelessSweepers=28.3333, 
+totalNumberOfCollectedMines=942, 
+bestSweeperID=83
+}
+end of generation 514
+currentGeneration = 514
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.75, 
+fitnessStandardDeviation=4.29195, 
+pourcentageOfMinelessSweepers=30, 
+totalNumberOfCollectedMines=825, 
+bestSweeperID=82
+}
+end of generation 515
+currentGeneration = 515
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.67667, 
+fitnessStandardDeviation=4.09782, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=803, 
+bestSweeperID=83
+}
+end of generation 516
+currentGeneration = 516
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.62667, 
+fitnessStandardDeviation=4.1369, 
+pourcentageOfMinelessSweepers=27.6667, 
+totalNumberOfCollectedMines=788, 
+bestSweeperID=83
+}
+end of generation 517
+currentGeneration = 517
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.61667, 
+fitnessStandardDeviation=3.71614, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=785, 
+bestSweeperID=219
+}
+end of generation 518
+currentGeneration = 518
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.43333, 
+fitnessStandardDeviation=3.58314, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=730, 
+bestSweeperID=13
+}
+end of generation 519
+currentGeneration = 519
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.72667, 
+fitnessStandardDeviation=4.13424, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=818, 
+bestSweeperID=13
+}
+end of generation 520
+currentGeneration = 520
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.92, 
+fitnessStandardDeviation=3.89704, 
+pourcentageOfMinelessSweepers=23, 
+totalNumberOfCollectedMines=876, 
+bestSweeperID=13
+}
+end of generation 521
+currentGeneration = 521
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.76, 
+fitnessStandardDeviation=3.99863, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=828, 
+bestSweeperID=225
+}
+end of generation 522
+currentGeneration = 522
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.64667, 
+fitnessStandardDeviation=4.13463, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=794, 
+bestSweeperID=153
+}
+end of generation 523
+currentGeneration = 523
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.84333, 
+fitnessStandardDeviation=4.266, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=853, 
+bestSweeperID=59
+}
+end of generation 524
+currentGeneration = 524
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.93667, 
+fitnessStandardDeviation=4.66326, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=881, 
+bestSweeperID=87
+}
+end of generation 525
+currentGeneration = 525
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.70333, 
+fitnessStandardDeviation=4.33843, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=811, 
+bestSweeperID=87
+}
+end of generation 526
+currentGeneration = 526
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.73667, 
+fitnessStandardDeviation=4.52113, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=821, 
+bestSweeperID=144
+}
+end of generation 527
+currentGeneration = 527
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=3, 
+fitnessStandardDeviation=4.72299, 
+pourcentageOfMinelessSweepers=27, 
+totalNumberOfCollectedMines=900, 
+bestSweeperID=82
+}
+end of generation 528
+currentGeneration = 528
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.68, 
+fitnessStandardDeviation=4.31327, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=804, 
+bestSweeperID=82
+}
+end of generation 529
+currentGeneration = 529
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=3.13667, 
+fitnessStandardDeviation=5.06406, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=941, 
+bestSweeperID=82
+}
+end of generation 530
+currentGeneration = 530
+stats =
+Statistics{
+bestFitness=50, 
+averageFitness=2.75667, 
+fitnessStandardDeviation=5.41702, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=827, 
+bestSweeperID=82
+}
+end of generation 531
+currentGeneration = 531
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.57, 
+fitnessStandardDeviation=3.91643, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=771, 
+bestSweeperID=82
+}
+end of generation 532
+currentGeneration = 532
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.55, 
+fitnessStandardDeviation=4.11187, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=765, 
+bestSweeperID=144
+}
+end of generation 533
+currentGeneration = 533
+stats =
+Statistics{
+bestFitness=42, 
+averageFitness=2.99, 
+fitnessStandardDeviation=5.39536, 
+pourcentageOfMinelessSweepers=26, 
+totalNumberOfCollectedMines=897, 
+bestSweeperID=83
+}
+end of generation 534
+currentGeneration = 534
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.66333, 
+fitnessStandardDeviation=4.83701, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=799, 
+bestSweeperID=83
+}
+end of generation 535
+currentGeneration = 535
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.71667, 
+fitnessStandardDeviation=4.21462, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=815, 
+bestSweeperID=83
+}
+end of generation 536
+currentGeneration = 536
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.72667, 
+fitnessStandardDeviation=5.09561, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=818, 
+bestSweeperID=12
+}
+end of generation 537
+currentGeneration = 537
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.49333, 
+fitnessStandardDeviation=3.95263, 
+pourcentageOfMinelessSweepers=35, 
+totalNumberOfCollectedMines=748, 
+bestSweeperID=166
+}
+end of generation 538
+currentGeneration = 538
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.62667, 
+fitnessStandardDeviation=4.25448, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=788, 
+bestSweeperID=225
+}
+end of generation 539
+currentGeneration = 539
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.97, 
+fitnessStandardDeviation=5.11297, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=891, 
+bestSweeperID=252
+}
+end of generation 540
+currentGeneration = 540
+stats =
+Statistics{
+bestFitness=46, 
+averageFitness=2.99333, 
+fitnessStandardDeviation=5.51845, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=898, 
+bestSweeperID=82
+}
+end of generation 541
+currentGeneration = 541
+stats =
+Statistics{
+bestFitness=42, 
+averageFitness=3.05333, 
+fitnessStandardDeviation=5.21061, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=916, 
+bestSweeperID=82
+}
+end of generation 542
+currentGeneration = 542
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.72333, 
+fitnessStandardDeviation=4.55047, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=817, 
+bestSweeperID=83
+}
+end of generation 543
+currentGeneration = 543
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.75667, 
+fitnessStandardDeviation=4.2187, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=827, 
+bestSweeperID=82
+}
+end of generation 544
+currentGeneration = 544
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.82667, 
+fitnessStandardDeviation=4.21307, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=848, 
+bestSweeperID=59
+}
+end of generation 545
+currentGeneration = 545
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.9, 
+fitnessStandardDeviation=4.12836, 
+pourcentageOfMinelessSweepers=27, 
+totalNumberOfCollectedMines=870, 
+bestSweeperID=89
+}
+end of generation 546
+currentGeneration = 546
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.57, 
+fitnessStandardDeviation=3.86416, 
+pourcentageOfMinelessSweepers=31.3333, 
+totalNumberOfCollectedMines=771, 
+bestSweeperID=205
+}
+end of generation 547
+currentGeneration = 547
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.21667, 
+fitnessStandardDeviation=3.57907, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=665, 
+bestSweeperID=225
+}
+end of generation 548
+currentGeneration = 548
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.28333, 
+fitnessStandardDeviation=3.78194, 
+pourcentageOfMinelessSweepers=36.3333, 
+totalNumberOfCollectedMines=685, 
+bestSweeperID=225
+}
+end of generation 549
+currentGeneration = 549
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.45333, 
+fitnessStandardDeviation=3.75959, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=736, 
+bestSweeperID=225
+}
+end of generation 550
+currentGeneration = 550
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=3.18333, 
+fitnessStandardDeviation=4.96082, 
+pourcentageOfMinelessSweepers=27.6667, 
+totalNumberOfCollectedMines=955, 
+bestSweeperID=252
+}
+end of generation 551
+currentGeneration = 551
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.55333, 
+fitnessStandardDeviation=4.08662, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=766, 
+bestSweeperID=56
+}
+end of generation 552
+currentGeneration = 552
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.33, 
+fitnessStandardDeviation=4.00597, 
+pourcentageOfMinelessSweepers=41.6667, 
+totalNumberOfCollectedMines=699, 
+bestSweeperID=197
+}
+end of generation 553
+currentGeneration = 553
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.66333, 
+fitnessStandardDeviation=3.90512, 
+pourcentageOfMinelessSweepers=31.6667, 
+totalNumberOfCollectedMines=799, 
+bestSweeperID=2
+}
+end of generation 554
+currentGeneration = 554
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.90667, 
+fitnessStandardDeviation=4.50014, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=872, 
+bestSweeperID=144
+}
+end of generation 555
+currentGeneration = 555
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.62333, 
+fitnessStandardDeviation=4.37509, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=787, 
+bestSweeperID=83
+}
+end of generation 556
+currentGeneration = 556
+stats =
+Statistics{
+bestFitness=23, 
+averageFitness=2.58667, 
+fitnessStandardDeviation=4.07707, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=776, 
+bestSweeperID=225
+}
+end of generation 557
+currentGeneration = 557
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.73333, 
+fitnessStandardDeviation=3.94321, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=820, 
+bestSweeperID=13
+}
+end of generation 558
+currentGeneration = 558
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.63333, 
+fitnessStandardDeviation=4.35418, 
+pourcentageOfMinelessSweepers=33.6667, 
+totalNumberOfCollectedMines=790, 
+bestSweeperID=83
+}
+end of generation 559
+currentGeneration = 559
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.42667, 
+fitnessStandardDeviation=3.53524, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=728, 
+bestSweeperID=252
+}
+end of generation 560
+currentGeneration = 560
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.86333, 
+fitnessStandardDeviation=4.27138, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=859, 
+bestSweeperID=83
+}
+end of generation 561
+currentGeneration = 561
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.55, 
+fitnessStandardDeviation=4.26546, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=765, 
+bestSweeperID=82
+}
+end of generation 562
+currentGeneration = 562
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.51667, 
+fitnessStandardDeviation=4.22568, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=755, 
+bestSweeperID=83
+}
+end of generation 563
+currentGeneration = 563
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.42, 
+fitnessStandardDeviation=4.01542, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=726, 
+bestSweeperID=83
+}
+end of generation 564
+currentGeneration = 564
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.43667, 
+fitnessStandardDeviation=4.05537, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=731, 
+bestSweeperID=59
+}
+end of generation 565
+currentGeneration = 565
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.61667, 
+fitnessStandardDeviation=4.24379, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=785, 
+bestSweeperID=13
+}
+end of generation 566
+currentGeneration = 566
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.57333, 
+fitnessStandardDeviation=3.74584, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=772, 
+bestSweeperID=101
+}
+end of generation 567
+currentGeneration = 567
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.40667, 
+fitnessStandardDeviation=3.64892, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=722, 
+bestSweeperID=219
+}
+end of generation 568
+currentGeneration = 568
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.44, 
+fitnessStandardDeviation=3.82967, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=732, 
+bestSweeperID=225
+}
+end of generation 569
+currentGeneration = 569
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=2.72, 
+fitnessStandardDeviation=4.65707, 
+pourcentageOfMinelessSweepers=29.6667, 
+totalNumberOfCollectedMines=816, 
+bestSweeperID=82
+}
+end of generation 570
+currentGeneration = 570
+stats =
+Statistics{
+bestFitness=24, 
+averageFitness=2.45667, 
+fitnessStandardDeviation=3.91597, 
+pourcentageOfMinelessSweepers=36.6667, 
+totalNumberOfCollectedMines=737, 
+bestSweeperID=225
+}
+end of generation 571
+currentGeneration = 571
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.51, 
+fitnessStandardDeviation=4.2257, 
+pourcentageOfMinelessSweepers=30, 
+totalNumberOfCollectedMines=753, 
+bestSweeperID=82
+}
+end of generation 572
+currentGeneration = 572
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.35333, 
+fitnessStandardDeviation=4.02018, 
+pourcentageOfMinelessSweepers=38, 
+totalNumberOfCollectedMines=706, 
+bestSweeperID=225
+}
+end of generation 573
+currentGeneration = 573
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.55667, 
+fitnessStandardDeviation=4.2973, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=767, 
+bestSweeperID=219
+}
+end of generation 574
+currentGeneration = 574
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.62, 
+fitnessStandardDeviation=4.63202, 
+pourcentageOfMinelessSweepers=35.3333, 
+totalNumberOfCollectedMines=786, 
+bestSweeperID=82
+}
+end of generation 575
+currentGeneration = 575
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.35333, 
+fitnessStandardDeviation=3.85078, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=706, 
+bestSweeperID=225
+}
+end of generation 576
+currentGeneration = 576
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=2.48667, 
+fitnessStandardDeviation=3.81879, 
+pourcentageOfMinelessSweepers=30, 
+totalNumberOfCollectedMines=746, 
+bestSweeperID=225
+}
+end of generation 577
+currentGeneration = 577
+stats =
+Statistics{
+bestFitness=26, 
+averageFitness=2.7, 
+fitnessStandardDeviation=4.31161, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=810, 
+bestSweeperID=205
+}
+end of generation 578
+currentGeneration = 578
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=2.53333, 
+fitnessStandardDeviation=4.51024, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=760, 
+bestSweeperID=83
+}
+end of generation 579
+currentGeneration = 579
+stats =
+Statistics{
+bestFitness=51, 
+averageFitness=2.64, 
+fitnessStandardDeviation=5.35198, 
+pourcentageOfMinelessSweepers=33, 
+totalNumberOfCollectedMines=792, 
+bestSweeperID=83
+}
+end of generation 580
+currentGeneration = 580
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.68667, 
+fitnessStandardDeviation=4.57841, 
+pourcentageOfMinelessSweepers=30.6667, 
+totalNumberOfCollectedMines=806, 
+bestSweeperID=144
+}
+end of generation 581
+currentGeneration = 581
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.43667, 
+fitnessStandardDeviation=4.2347, 
+pourcentageOfMinelessSweepers=35.6667, 
+totalNumberOfCollectedMines=731, 
+bestSweeperID=82
+}
+end of generation 582
+currentGeneration = 582
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.76, 
+fitnessStandardDeviation=4.41615, 
+pourcentageOfMinelessSweepers=36, 
+totalNumberOfCollectedMines=828, 
+bestSweeperID=12
+}
+end of generation 583
+currentGeneration = 583
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.51667, 
+fitnessStandardDeviation=4.28832, 
+pourcentageOfMinelessSweepers=37, 
+totalNumberOfCollectedMines=755, 
+bestSweeperID=215
+}
+end of generation 584
+currentGeneration = 584
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.83333, 
+fitnessStandardDeviation=4.25114, 
+pourcentageOfMinelessSweepers=28.6667, 
+totalNumberOfCollectedMines=850, 
+bestSweeperID=252
+}
+end of generation 585
+currentGeneration = 585
+stats =
+Statistics{
+bestFitness=21, 
+averageFitness=2.68333, 
+fitnessStandardDeviation=4.01452, 
+pourcentageOfMinelessSweepers=33.3333, 
+totalNumberOfCollectedMines=805, 
+bestSweeperID=13
+}
+end of generation 586
+currentGeneration = 586
+stats =
+Statistics{
+bestFitness=31, 
+averageFitness=2.44, 
+fitnessStandardDeviation=3.88927, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=732, 
+bestSweeperID=13
+}
+end of generation 587
+currentGeneration = 587
+stats =
+Statistics{
+bestFitness=28, 
+averageFitness=2.45, 
+fitnessStandardDeviation=4.28262, 
+pourcentageOfMinelessSweepers=37.6667, 
+totalNumberOfCollectedMines=735, 
+bestSweeperID=82
+}
+end of generation 588
+currentGeneration = 588
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.4, 
+fitnessStandardDeviation=4.12311, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=720, 
+bestSweeperID=83
+}
+end of generation 589
+currentGeneration = 589
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.64, 
+fitnessStandardDeviation=4.45687, 
+pourcentageOfMinelessSweepers=32.6667, 
+totalNumberOfCollectedMines=792, 
+bestSweeperID=252
+}
+end of generation 590
+currentGeneration = 590
+stats =
+Statistics{
+bestFitness=34, 
+averageFitness=2.91, 
+fitnessStandardDeviation=4.85818, 
+pourcentageOfMinelessSweepers=27.6667, 
+totalNumberOfCollectedMines=873, 
+bestSweeperID=82
+}
+end of generation 591
+currentGeneration = 591
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.78333, 
+fitnessStandardDeviation=4.51624, 
+pourcentageOfMinelessSweepers=32, 
+totalNumberOfCollectedMines=835, 
+bestSweeperID=82
+}
+end of generation 592
+currentGeneration = 592
+stats =
+Statistics{
+bestFitness=40, 
+averageFitness=2.71333, 
+fitnessStandardDeviation=4.98844, 
+pourcentageOfMinelessSweepers=34, 
+totalNumberOfCollectedMines=814, 
+bestSweeperID=144
+}
+end of generation 593
+currentGeneration = 593
+stats =
+Statistics{
+bestFitness=52, 
+averageFitness=2.72333, 
+fitnessStandardDeviation=5.50455, 
+pourcentageOfMinelessSweepers=32.3333, 
+totalNumberOfCollectedMines=817, 
+bestSweeperID=82
+}
+end of generation 594
+currentGeneration = 594
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.62667, 
+fitnessStandardDeviation=4.67482, 
+pourcentageOfMinelessSweepers=38.6667, 
+totalNumberOfCollectedMines=788, 
+bestSweeperID=82
+}
+end of generation 595
+currentGeneration = 595
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.45333, 
+fitnessStandardDeviation=4.22861, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=736, 
+bestSweeperID=83
+}
+end of generation 596
+currentGeneration = 596
+stats =
+Statistics{
+bestFitness=27, 
+averageFitness=2.60333, 
+fitnessStandardDeviation=4.40522, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=781, 
+bestSweeperID=82
+}
+end of generation 597
+currentGeneration = 597
+stats =
+Statistics{
+bestFitness=46, 
+averageFitness=2.53667, 
+fitnessStandardDeviation=5.01684, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=761, 
+bestSweeperID=83
+}
+end of generation 598
+currentGeneration = 598
+stats =
+Statistics{
+bestFitness=42, 
+averageFitness=2.46333, 
+fitnessStandardDeviation=4.81131, 
+pourcentageOfMinelessSweepers=39.3333, 
+totalNumberOfCollectedMines=739, 
+bestSweeperID=82
+}
+end of generation 599
+currentGeneration = 599
+stats =
+Statistics{
+bestFitness=38, 
+averageFitness=2.64, 
+fitnessStandardDeviation=4.86317, 
+pourcentageOfMinelessSweepers=34.6667, 
+totalNumberOfCollectedMines=792, 
+bestSweeperID=83
+}
+####MINES AND SWEEPERS REPOSITIONED!!!
+end of generation 600
+currentGeneration = 600
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=3.81667, 
+fitnessStandardDeviation=4.58727, 
+pourcentageOfMinelessSweepers=17.6667, 
+totalNumberOfCollectedMines=1145, 
+bestSweeperID=42
+}
+end of generation 601
+currentGeneration = 601
+stats =
+Statistics{
+bestFitness=30, 
+averageFitness=3.19667, 
+fitnessStandardDeviation=4.58454, 
+pourcentageOfMinelessSweepers=23, 
+totalNumberOfCollectedMines=959, 
+bestSweeperID=82
+}
+end of generation 602
+currentGeneration = 602
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.95667, 
+fitnessStandardDeviation=4.74919, 
+pourcentageOfMinelessSweepers=28, 
+totalNumberOfCollectedMines=887, 
+bestSweeperID=82
+}
+end of generation 603
+currentGeneration = 603
+stats =
+Statistics{
+bestFitness=22, 
+averageFitness=2.90667, 
+fitnessStandardDeviation=4.26434, 
+pourcentageOfMinelessSweepers=28.6667, 
+totalNumberOfCollectedMines=872, 
+bestSweeperID=87
+}
+end of generation 604
+currentGeneration = 604
+stats =
+Statistics{
+bestFitness=37, 
+averageFitness=3.01667, 
+fitnessStandardDeviation=4.83353, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=905, 
+bestSweeperID=82
+}
+end of generation 605
+currentGeneration = 605
+stats =
+Statistics{
+bestFitness=35, 
+averageFitness=2.90333, 
+fitnessStandardDeviation=4.48932, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=871, 
+bestSweeperID=225
+}
+end of generation 606
+currentGeneration = 606
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.69667, 
+fitnessStandardDeviation=4.42546, 
+pourcentageOfMinelessSweepers=31, 
+totalNumberOfCollectedMines=809, 
+bestSweeperID=83
+}
+end of generation 607
+currentGeneration = 607
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.74, 
+fitnessStandardDeviation=4.13188, 
+pourcentageOfMinelessSweepers=26.6667, 
+totalNumberOfCollectedMines=822, 
+bestSweeperID=82
+}
+end of generation 608
+currentGeneration = 608
+stats =
+Statistics{
+bestFitness=20, 
+averageFitness=2.47667, 
+fitnessStandardDeviation=3.86818, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=743, 
+bestSweeperID=59
+}
+end of generation 609
+currentGeneration = 609
+stats =
+Statistics{
+bestFitness=36, 
+averageFitness=2.62, 
+fitnessStandardDeviation=4.86027, 
+pourcentageOfMinelessSweepers=34.3333, 
+totalNumberOfCollectedMines=786, 
+bestSweeperID=225
+}
+end of generation 610
+currentGeneration = 610
+stats =
+Statistics{
+bestFitness=45, 
+averageFitness=3.01667, 
+fitnessStandardDeviation=5.66066, 
+pourcentageOfMinelessSweepers=30.3333, 
+totalNumberOfCollectedMines=905, 
+bestSweeperID=83
+}
+end of generation 611
+currentGeneration = 611
+stats =
+Statistics{
+bestFitness=25, 
+averageFitness=2.89667, 
+fitnessStandardDeviation=4.12949, 
+pourcentageOfMinelessSweepers=27.6667, 
+totalNumberOfCollectedMines=869, 
+bestSweeperID=83
+}
+end of generation 612
+currentGeneration = 612
+stats =
+Statistics{
+bestFitness=29, 
+averageFitness=2.96, 
+fitnessStandardDeviation=4.63304, 
+pourcentageOfMinelessSweepers=24.6667, 
+totalNumberOfCollectedMines=888, 
+bestSweeperID=144
+}
+end of generation 613
+currentGeneration = 613
+stats =
+Statistics{
+bestFitness=32, 
+averageFitness=3.02333, 
+fitnessStandardDeviation=4.81969, 
+pourcentageOfMinelessSweepers=29.3333, 
+totalNumberOfCollectedMines=907, 
+bestSweeperID=82
+}
+end of generation 614
+currentGeneration = 614
+stats =
+Statistics{
+bestFitness=33, 
+averageFitness=2.62667, 
+fitnessStandardDeviation=4.02417, 
+pourcentageOfMinelessSweepers=29, 
+totalNumberOfCollectedMines=788, 
+bestSweeperID=82
+}
+end of generation 615
+Hit any key to continue...
+  
+
